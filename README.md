@@ -380,10 +380,6 @@ Architected the backend for an IoT car platform, processing real-time vehicle da
 </td></tr>
 </table>
 
-<div align="center">
-<sub>🎓 &nbsp;B.Tech, Computer Science &amp; Engineering — Mahatma Gandhi Institute of Technology, Hyderabad</sub>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:0f172a&height=3&section=header" width="100%" alt="" />
 
 <div align="center">
