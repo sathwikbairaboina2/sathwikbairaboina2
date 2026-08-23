@@ -361,7 +361,7 @@ Led the end-to-end redevelopment of the AeroPartsNow aerospace parts e-commerce 
 <tr><td valign="top">
 
 ### Iolar Technologies
-**Full Stack Engineer** &nbsp;·&nbsp; <sub><code>DEC 2018 — AUG 2021</code></sub>
+**Full Stack Engineer** &nbsp;·&nbsp; <sub><code>DEC 2017 — MAY 2021</code></sub>
 
 Architected and built an on-demand vehicle maintenance platform — MERN stack with a React Native app — supporting real-time repair booking and tracking, an Uber-like experience for auto services. Node.js/Express backend APIs with EC2 and S3 for storage and processing. Integrated Google Maps for navigation, Razorpay for payments, Plivo for SMS and OneSignal for push. Led UX design and feature planning across web and mobile. Recruited and mentored the engineering team, establishing Agile practice.
 
