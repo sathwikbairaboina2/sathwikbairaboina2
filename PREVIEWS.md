@@ -1,281 +1,260 @@
-# H1 + C1 · Avatara Orange
+# Palette Options — Professional
 
-Primary `#FF8A3D` · accent `#3DBB93` · cocoa `#241C16` — pulled from `avatara-backend/apps/web/src/theme/tokens.ts`.
+Same layout five times. Judge colour only.
 
-All three headers below have `animation=fadeIn` **removed** — that was the bug that made the name invisible.
+Banners are decorative gradient bands. The name sits below as real markdown text, because capsule-render fades its own text in from `opacity: 0` and photographs blank.
 
 ---
----
 
-# OPTION 1 — Full Avatara brand
+## A — Midnight & Ice
 
-<sub>Orange on Avatara's own cocoa ground. Maximum brand fidelity — the profile and the product match.</sub>
+<sub>`#0B1020` ground · `#7DD3FC` primary · `#E2E8F0` ink</sub><br/>
+<sub>Cool and quiet. Reads like a systems engineer who does not need to shout.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,55:1E3A5F,100:7DD3FC&height=110&section=header" width="100%" alt="" />
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:241C16,50:8a4a1d,100:FF8A3D&height=210&section=header&text=SATHWIK%20BAIRABOINA&fontSize=46&fontColor=F2E8DC&fontAlignY=36&desc=Senior%20Full%20Stack%20Engineer%20%E2%80%94%20AI%20Workflow%20Architect&descAlignY=57&descSize=17" width="100%" alt="" />
+# SATHWIK BAIRABOINA
+### Senior Full Stack Engineer &nbsp;·&nbsp; AI Workflow Architect
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-FF8A3D?style=for-the-badge&logo=linkedin&logoColor=241C16" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Email-FF8A3D?style=for-the-badge&logo=gmail&logoColor=241C16" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Portfolio-4A3A2E?style=for-the-badge&logo=googlechrome&logoColor=F2E8DC" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Demo-4A3A2E?style=for-the-badge&logo=youtube&logoColor=F2E8DC" alt="" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=0B1020" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=0B1020" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Portfolio-1E3A5F?style=for-the-badge&logo=googlechrome&logoColor=E2E8F0" alt="" /></a>
 
-![](https://img.shields.io/badge/~160k-lines-FF8A3D?style=flat-square&labelColor=241C16)
-![](https://img.shields.io/badge/1,080-commits-FF8A3D?style=flat-square&labelColor=241C16)
-![](https://img.shields.io/badge/2,875-tests-FF8A3D?style=flat-square&labelColor=241C16)
-![](https://img.shields.io/badge/10-systems-4A3A2E?style=flat-square&labelColor=241C16)
-![](https://img.shields.io/badge/9-cold_bootable-4A3A2E?style=flat-square&labelColor=241C16)
+![](https://img.shields.io/badge/~160k-lines-7DD3FC?style=flat-square&labelColor=0B1020)
+![](https://img.shields.io/badge/1,080-commits-7DD3FC?style=flat-square&labelColor=0B1020)
+![](https://img.shields.io/badge/2,875-tests-7DD3FC?style=flat-square&labelColor=0B1020)
+![](https://img.shields.io/badge/10-systems-1E3A5F?style=flat-square&labelColor=0B1020)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:241C16,50:FF8A3D,100:241C16&height=3&section=header" width="100%" alt="" />
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<table><tr><td width="50%" valign="top">
 
 #### 🏬 &nbsp;marketplace
 **Multi-tenant commerce + schema agent**
 
 *A chat that safely rewrites your database schema.*
 
-Two services decoupled by an SQS FIFO queue. A deterministic engine enforces a per-tenant dynamic schema registry; a LangGraph layer turns a conversation into a validated schema-change proposal. The agent never writes to the registry — it emits proposals the engine adjudicates.
+![](https://img.shields.io/badge/37.9k_lines-0B1020?style=flat-square)
+![](https://img.shields.io/badge/489_files-0B1020?style=flat-square)
+![](https://img.shields.io/badge/293_commits-7DD3FC?style=flat-square&labelColor=0B1020)
 
-![](https://img.shields.io/badge/37.9k_lines-241C16?style=flat-square)
-![](https://img.shields.io/badge/489_files-241C16?style=flat-square)
-![](https://img.shields.io/badge/293_commits-FF8A3D?style=flat-square&labelColor=241C16)
+`NestJS ×2` · `LangGraph.js` · `LocalStack` · `Playwright`
 
-`NestJS ×2` · `Next.js` · `LangGraph.js` · `LocalStack` · `Playwright`
+</td><td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
-
-#### 🎭 &nbsp;Avatara
-**Character chat platform**
-
-*character.ai, rebuilt to run on your own box.*
-
-Create AI characters with a persona, chat over a token stream, publish, follow other creators. Rebuilt from an AWS-Lambda prototype into two NestJS monoliths with a local-first dev stack. Shipped as four vertical slices — each a complete flow, never a layer.
-
-![](https://img.shields.io/badge/34.1k_lines-241C16?style=flat-square)
-![](https://img.shields.io/badge/399_files-241C16?style=flat-square)
-![](https://img.shields.io/badge/277_commits-FF8A3D?style=flat-square&labelColor=241C16)
-
-`NestJS ×2` · `LangGraph` · `Ollama` · `SQS FIFO` · `Redis` · `Cognito`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📈 &nbsp;RakshaQuant
-**Agentic NSE paper trading**
-
-*Let the model read the market. Never let it place the order.*
-
-A LangGraph pipeline of Groq-backed agents classifies market regime, picks strategies, validates signals. A deterministic rules engine does final approval, sizing and limits. Hardened to v2.1 against a nine-defect audit.
-
-![](https://img.shields.io/badge/25.1k_lines-241C16?style=flat-square)
-![](https://img.shields.io/badge/112_commits-FF8A3D?style=flat-square&labelColor=241C16)
-
-`Python 3.11` · `LangGraph` · `Groq` · `LangSmith` · `uv`
-
-</td>
-<td width="50%" valign="top">
-
-#### 👻 &nbsp;Invisible &nbsp;<img src="https://img.shields.io/badge/public-FF8A3D?style=flat-square&labelColor=241C16" alt="" />
+#### 👻 &nbsp;Invisible &nbsp;<img src="https://img.shields.io/badge/public-7DD3FC?style=flat-square&labelColor=0B1020" alt="" />
 **Capture-excluded meeting overlay**
 
 *Transparent to you. Invisible to the screen recorder.*
 
-Listens, transcribes, streams advice onto an overlay excluded from screen capture. **~673 ms to first word.** Audio never hits disk, transcript is memory-only capped at 40 turns, one keystroke clears everything.
+![](https://img.shields.io/badge/8.7k_lines-0B1020?style=flat-square)
+![](https://img.shields.io/badge/68_files-0B1020?style=flat-square)
+![](https://img.shields.io/badge/74_commits-7DD3FC?style=flat-square&labelColor=0B1020)
 
-![](https://img.shields.io/badge/8.7k_lines-241C16?style=flat-square)
-![](https://img.shields.io/badge/74_commits-FF8A3D?style=flat-square&labelColor=241C16)
+`Electron 43` · `whisper.cpp` · `Qdrant`
 
-`Electron 43` · `React 19` · `whisper.cpp` · `Qdrant`
-
-</td>
-</tr>
-</table>
+</td></tr></table>
 
 ---
----
 
-# OPTION 2 — Orange + teal, GitHub-native ground
+## B — Steel & Sapphire
 
-<sub>Avatara's full two-colour system on GitHub's own `#0d1117`. Orange carries identity, teal marks the live/public things. Sits naturally in dark mode.</sub>
+<sub>`#0F172A` ground · `#3B82F6` primary · `#94A3B8` muted</sub><br/>
+<sub>The safest professional choice. Enterprise-legible, zero risk, reads instantly as engineering.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1E40AF,100:3B82F6&height=110&section=header" width="100%" alt="" />
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3DBB93,100:FF8A3D&height=210&section=header&text=SATHWIK%20BAIRABOINA&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full%20Stack%20Engineer%20%E2%80%94%20AI%20Workflow%20Architect&descAlignY=57&descSize=17" width="100%" alt="" />
+# SATHWIK BAIRABOINA
+### Senior Full Stack Engineer &nbsp;·&nbsp; AI Workflow Architect
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-FF8A3D?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Email-FF8A3D?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Portfolio-3DBB93?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Demo-3DBB93?style=for-the-badge&logo=youtube&logoColor=0d1117" alt="" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=googlechrome&logoColor=94A3B8" alt="" /></a>
 
-![](https://img.shields.io/badge/~160k-lines-FF8A3D?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/1,080-commits-FF8A3D?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/2,875-tests-FF8A3D?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/10-systems-3DBB93?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/9-cold_bootable-3DBB93?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/~160k-lines-3B82F6?style=flat-square&labelColor=0F172A)
+![](https://img.shields.io/badge/1,080-commits-3B82F6?style=flat-square&labelColor=0F172A)
+![](https://img.shields.io/badge/2,875-tests-3B82F6?style=flat-square&labelColor=0F172A)
+![](https://img.shields.io/badge/10-systems-1E293B?style=flat-square&labelColor=0F172A)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,35:FF8A3D,65:3DBB93,100:0d1117&height=3&section=header" width="100%" alt="" />
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<table><tr><td width="50%" valign="top">
 
 #### 🏬 &nbsp;marketplace
 **Multi-tenant commerce + schema agent**
 
 *A chat that safely rewrites your database schema.*
 
-Two services decoupled by an SQS FIFO queue. A deterministic engine enforces a per-tenant dynamic schema registry; a LangGraph layer turns a conversation into a validated schema-change proposal. The agent never writes to the registry — it emits proposals the engine adjudicates.
+![](https://img.shields.io/badge/37.9k_lines-0F172A?style=flat-square)
+![](https://img.shields.io/badge/489_files-0F172A?style=flat-square)
+![](https://img.shields.io/badge/293_commits-3B82F6?style=flat-square&labelColor=0F172A)
 
-![](https://img.shields.io/badge/37.9k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/489_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/293_commits-FF8A3D?style=flat-square&labelColor=0d1117)
+`NestJS ×2` · `LangGraph.js` · `LocalStack` · `Playwright`
 
-`NestJS ×2` · `Next.js` · `LangGraph.js` · `LocalStack` · `Playwright`
+</td><td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
-
-#### 🎭 &nbsp;Avatara
-**Character chat platform**
-
-*character.ai, rebuilt to run on your own box.*
-
-Create AI characters with a persona, chat over a token stream, publish, follow other creators. Rebuilt from an AWS-Lambda prototype into two NestJS monoliths with a local-first dev stack. Shipped as four vertical slices — each a complete flow, never a layer.
-
-![](https://img.shields.io/badge/34.1k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/399_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/277_commits-FF8A3D?style=flat-square&labelColor=0d1117)
-
-`NestJS ×2` · `LangGraph` · `Ollama` · `SQS FIFO` · `Redis` · `Cognito`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📈 &nbsp;RakshaQuant
-**Agentic NSE paper trading**
-
-*Let the model read the market. Never let it place the order.*
-
-A LangGraph pipeline of Groq-backed agents classifies market regime, picks strategies, validates signals. A deterministic rules engine does final approval, sizing and limits. Hardened to v2.1 against a nine-defect audit.
-
-![](https://img.shields.io/badge/25.1k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/112_commits-FF8A3D?style=flat-square&labelColor=0d1117)
-
-`Python 3.11` · `LangGraph` · `Groq` · `LangSmith` · `uv`
-
-</td>
-<td width="50%" valign="top">
-
-#### 👻 &nbsp;Invisible &nbsp;<img src="https://img.shields.io/badge/public-3DBB93?style=flat-square&labelColor=0d1117" alt="" />
+#### 👻 &nbsp;Invisible &nbsp;<img src="https://img.shields.io/badge/public-3B82F6?style=flat-square&labelColor=0F172A" alt="" />
 **Capture-excluded meeting overlay**
 
 *Transparent to you. Invisible to the screen recorder.*
 
-Listens, transcribes, streams advice onto an overlay excluded from screen capture. **~673 ms to first word.** Audio never hits disk, transcript is memory-only capped at 40 turns, one keystroke clears everything.
+![](https://img.shields.io/badge/8.7k_lines-0F172A?style=flat-square)
+![](https://img.shields.io/badge/68_files-0F172A?style=flat-square)
+![](https://img.shields.io/badge/74_commits-3B82F6?style=flat-square&labelColor=0F172A)
 
-![](https://img.shields.io/badge/8.7k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/74_commits-FF8A3D?style=flat-square&labelColor=0d1117)
+`Electron 43` · `whisper.cpp` · `Qdrant`
 
-`Electron 43` · `React 19` · `whisper.cpp` · `Qdrant`
-
-</td>
-</tr>
-</table>
+</td></tr></table>
 
 ---
----
 
-# OPTION 3 — Restrained: orange as a single accent
+## C — Charcoal & Platinum
 
-<sub>Near-black banner that only catches orange at the very edge. Orange appears once per card, on the commit count. Reads senior rather than loud.</sub>
+<sub>`#111214` ground · `#E4E4E7` primary · `#71717A` muted — near-monochrome</sub><br/>
+<sub>No colour at all. The most restrained option and the hardest to get wrong. Ages well.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111214,55:3F3F46,100:A1A1AA&height=110&section=header" width="100%" alt="" />
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,72:1a1310,100:FF8A3D&height=210&section=header&text=SATHWIK%20BAIRABOINA&fontSize=46&fontColor=FF8A3D&fontAlignY=36&desc=Senior%20Full%20Stack%20Engineer%20%E2%80%94%20AI%20Workflow%20Architect&descAlignY=57&descSize=17" width="100%" alt="" />
+# SATHWIK BAIRABOINA
+### Senior Full Stack Engineer &nbsp;·&nbsp; AI Workflow Architect
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=FF8A3D" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=FF8A3D" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=FF8A3D" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Demo-0a0a0a?style=for-the-badge&logo=youtube&logoColor=FF8A3D" alt="" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-E4E4E7?style=for-the-badge&logo=linkedin&logoColor=111214" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Email-E4E4E7?style=for-the-badge&logo=gmail&logoColor=111214" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Portfolio-3F3F46?style=for-the-badge&logo=googlechrome&logoColor=E4E4E7" alt="" /></a>
 
-![](https://img.shields.io/badge/~160k-lines-e5e5e5?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/1,080-commits-e5e5e5?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/2,875-tests-e5e5e5?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/10-systems-FF8A3D?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/9-cold_bootable-e5e5e5?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/~160k-lines-E4E4E7?style=flat-square&labelColor=111214)
+![](https://img.shields.io/badge/1,080-commits-E4E4E7?style=flat-square&labelColor=111214)
+![](https://img.shields.io/badge/2,875-tests-E4E4E7?style=flat-square&labelColor=111214)
+![](https://img.shields.io/badge/10-systems-3F3F46?style=flat-square&labelColor=111214)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:FF8A3D,100:0a0a0a&height=2&section=header" width="100%" alt="" />
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<table><tr><td width="50%" valign="top">
 
 #### 🏬 &nbsp;marketplace
 **Multi-tenant commerce + schema agent**
 
 *A chat that safely rewrites your database schema.*
 
-Two services decoupled by an SQS FIFO queue. A deterministic engine enforces a per-tenant dynamic schema registry; a LangGraph layer turns a conversation into a validated schema-change proposal. The agent never writes to the registry — it emits proposals the engine adjudicates.
+![](https://img.shields.io/badge/37.9k_lines-111214?style=flat-square)
+![](https://img.shields.io/badge/489_files-111214?style=flat-square)
+![](https://img.shields.io/badge/293_commits-E4E4E7?style=flat-square&labelColor=111214)
 
-![](https://img.shields.io/badge/37.9k-lines-0a0a0a?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/489-files-0a0a0a?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/293-commits-FF8A3D?style=flat-square&labelColor=0a0a0a)
+`NestJS ×2` · `LangGraph.js` · `LocalStack` · `Playwright`
 
-`NestJS ×2` · `Next.js` · `LangGraph.js` · `LocalStack` · `Playwright`
+</td><td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
-
-#### 🎭 &nbsp;Avatara
-**Character chat platform**
-
-*character.ai, rebuilt to run on your own box.*
-
-Create AI characters with a persona, chat over a token stream, publish, follow other creators. Rebuilt from an AWS-Lambda prototype into two NestJS monoliths with a local-first dev stack. Shipped as four vertical slices — each a complete flow, never a layer.
-
-![](https://img.shields.io/badge/34.1k-lines-0a0a0a?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/399-files-0a0a0a?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/277-commits-FF8A3D?style=flat-square&labelColor=0a0a0a)
-
-`NestJS ×2` · `LangGraph` · `Ollama` · `SQS FIFO` · `Redis` · `Cognito`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📈 &nbsp;RakshaQuant
-**Agentic NSE paper trading**
-
-*Let the model read the market. Never let it place the order.*
-
-A LangGraph pipeline of Groq-backed agents classifies market regime, picks strategies, validates signals. A deterministic rules engine does final approval, sizing and limits. Hardened to v2.1 against a nine-defect audit.
-
-![](https://img.shields.io/badge/25.1k-lines-0a0a0a?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/112-commits-FF8A3D?style=flat-square&labelColor=0a0a0a)
-
-`Python 3.11` · `LangGraph` · `Groq` · `LangSmith` · `uv`
-
-</td>
-<td width="50%" valign="top">
-
-#### 👻 &nbsp;Invisible &nbsp;<img src="https://img.shields.io/badge/public-0a0a0a?style=flat-square&labelColor=FF8A3D" alt="" />
+#### 👻 &nbsp;Invisible &nbsp;<img src="https://img.shields.io/badge/public-E4E4E7?style=flat-square&labelColor=111214" alt="" />
 **Capture-excluded meeting overlay**
 
 *Transparent to you. Invisible to the screen recorder.*
 
-Listens, transcribes, streams advice onto an overlay excluded from screen capture. **~673 ms to first word.** Audio never hits disk, transcript is memory-only capped at 40 turns, one keystroke clears everything.
+![](https://img.shields.io/badge/8.7k_lines-111214?style=flat-square)
+![](https://img.shields.io/badge/68_files-111214?style=flat-square)
+![](https://img.shields.io/badge/74_commits-E4E4E7?style=flat-square&labelColor=111214)
 
-![](https://img.shields.io/badge/8.7k-lines-0a0a0a?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/74-commits-FF8A3D?style=flat-square&labelColor=0a0a0a)
+`Electron 43` · `whisper.cpp` · `Qdrant`
 
-`Electron 43` · `React 19` · `whisper.cpp` · `Qdrant`
+</td></tr></table>
 
-</td>
-</tr>
-</table>
+---
+
+## D — Deep Teal & Slate
+
+<sub>`#0B1E1C` ground · `#2DD4BF` primary · `#CBD5E1` ink</sub><br/>
+<sub>Professional but not the default blue. Distinctive without being decorative.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E1C,55:115E59,100:2DD4BF&height=110&section=header" width="100%" alt="" />
+
+<div align="center">
+
+# SATHWIK BAIRABOINA
+### Senior Full Stack Engineer &nbsp;·&nbsp; AI Workflow Architect
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=0B1E1C" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0B1E1C" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Portfolio-115E59?style=for-the-badge&logo=googlechrome&logoColor=CBD5E1" alt="" /></a>
+
+![](https://img.shields.io/badge/~160k-lines-2DD4BF?style=flat-square&labelColor=0B1E1C)
+![](https://img.shields.io/badge/1,080-commits-2DD4BF?style=flat-square&labelColor=0B1E1C)
+![](https://img.shields.io/badge/2,875-tests-2DD4BF?style=flat-square&labelColor=0B1E1C)
+![](https://img.shields.io/badge/10-systems-115E59?style=flat-square&labelColor=0B1E1C)
+
+</div>
+
+<table><tr><td width="50%" valign="top">
+
+#### 🏬 &nbsp;marketplace
+**Multi-tenant commerce + schema agent**
+
+*A chat that safely rewrites your database schema.*
+
+![](https://img.shields.io/badge/37.9k_lines-0B1E1C?style=flat-square)
+![](https://img.shields.io/badge/489_files-0B1E1C?style=flat-square)
+![](https://img.shields.io/badge/293_commits-2DD4BF?style=flat-square&labelColor=0B1E1C)
+
+`NestJS ×2` · `LangGraph.js` · `LocalStack` · `Playwright`
+
+</td><td width="50%" valign="top">
+
+#### 👻 &nbsp;Invisible &nbsp;<img src="https://img.shields.io/badge/public-2DD4BF?style=flat-square&labelColor=0B1E1C" alt="" />
+**Capture-excluded meeting overlay**
+
+*Transparent to you. Invisible to the screen recorder.*
+
+![](https://img.shields.io/badge/8.7k_lines-0B1E1C?style=flat-square)
+![](https://img.shields.io/badge/68_files-0B1E1C?style=flat-square)
+![](https://img.shields.io/badge/74_commits-2DD4BF?style=flat-square&labelColor=0B1E1C)
+
+`Electron 43` · `whisper.cpp` · `Qdrant`
+
+</td></tr></table>
+
+---
+
+## E — Graphite & Amber
+
+<sub>`#1C1917` ground · `#FCD34D` primary · `#FAFAF9` ink</sub><br/>
+<sub>Warm and editorial. Same warmth as the Avatara orange, calmer and far easier to read at small sizes.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1917,55:78350F,100:FCD34D&height=110&section=header" width="100%" alt="" />
+
+<div align="center">
+
+# SATHWIK BAIRABOINA
+### Senior Full Stack Engineer &nbsp;·&nbsp; AI Workflow Architect
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-FCD34D?style=for-the-badge&logo=linkedin&logoColor=1C1917" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Email-FCD34D?style=for-the-badge&logo=gmail&logoColor=1C1917" alt="" /></a>&nbsp;<a href="#"><img src="https://img.shields.io/badge/Portfolio-78350F?style=for-the-badge&logo=googlechrome&logoColor=FAFAF9" alt="" /></a>
+
+![](https://img.shields.io/badge/~160k-lines-FCD34D?style=flat-square&labelColor=1C1917)
+![](https://img.shields.io/badge/1,080-commits-FCD34D?style=flat-square&labelColor=1C1917)
+![](https://img.shields.io/badge/2,875-tests-FCD34D?style=flat-square&labelColor=1C1917)
+![](https://img.shields.io/badge/10-systems-78350F?style=flat-square&labelColor=1C1917)
+
+</div>
+
+<table><tr><td width="50%" valign="top">
+
+#### 🏬 &nbsp;marketplace
+**Multi-tenant commerce + schema agent**
+
+*A chat that safely rewrites your database schema.*
+
+![](https://img.shields.io/badge/37.9k_lines-1C1917?style=flat-square)
+![](https://img.shields.io/badge/489_files-1C1917?style=flat-square)
+![](https://img.shields.io/badge/293_commits-FCD34D?style=flat-square&labelColor=1C1917)
+
+`NestJS ×2` · `LangGraph.js` · `LocalStack` · `Playwright`
+
+</td><td width="50%" valign="top">
+
+#### 👻 &nbsp;Invisible &nbsp;<img src="https://img.shields.io/badge/public-FCD34D?style=flat-square&labelColor=1C1917" alt="" />
+**Capture-excluded meeting overlay**
+
+*Transparent to you. Invisible to the screen recorder.*
+
+![](https://img.shields.io/badge/8.7k_lines-1C1917?style=flat-square)
+![](https://img.shields.io/badge/68_files-1C1917?style=flat-square)
+![](https://img.shields.io/badge/74_commits-FCD34D?style=flat-square&labelColor=1C1917)
+
+`Electron 43` · `whisper.cpp` · `Qdrant`
+
+</td></tr></table>
