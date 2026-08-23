@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=230&section=header&text=SATHWIK%20BAIRABOINA&fontSize=46&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer%20%E2%80%94%20AI%20Workflow%20Architect&descAlignY=58&descSize=17" width="100%" alt="Sathwik Bairaboina" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:1e3a5f,100:0ea5e9&height=120&section=header" width="100%" alt="" />
+
+# SATHWIK BAIRABOINA
+
+### Senior Full Stack Engineer &nbsp;·&nbsp; AI Workflow Architect
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3400&pause=800&color=0EA5E9&center=true&vCenter=true&width=760&lines=The+model+proposes.+The+core+disposes.;LangGraph+agents+that+never+touch+the+money+path;Local-first+AI+%E2%80%94+nothing+leaves+the+host;Deterministic+cores%2C+probabilistic+edges" alt="Thesis" />
 
@@ -313,31 +317,67 @@ Built on open-source transformer and diffusion models with a fully integrated fr
 
 <div align="center">
 
-### `track record`
+### `work experience`
 
 </div>
 
 <table>
-<tr>
-<td width="30%"><b>Lego Verse Module</b><br/><sub>Senior Full Stack Engineer · Co-Founder</sub><br/><sub><code>AUG 2023 — PRESENT</code></sub></td>
-<td>Full-stack AI-driven SaaS on AWS (Lambda, DynamoDB, CDK). LangChain + Hugging Face inference automating B2B workflows. Containerized microservices auto-scaling on ECS. CI/CD via CDK/CloudFormation — <b>50% faster deploys at 99.99% uptime</b>.</td>
-</tr>
-<tr>
-<td><b>Epilot GmbH</b> 🇩🇪<br/><sub>Full Stack Engineer</sub><br/><sub><code>AUG 2022 — MAY 2023</code></sub></td>
-<td>Import/export system for dynamic platform entities via JSON schema transformations — a Shopify-like model for arbitrary tenant data. Storybook-driven component library catching <b>95% of UI bugs pre-release</b>. Cut bundle size for a <b>30% load-time improvement</b>.</td>
-</tr>
-<tr>
-<td><b>Aithinkers</b><br/><sub>Senior Software Developer</sub><br/><sub><code>MAY 2021 — AUG 2022</code></sub></td>
-<td>Led the end-to-end rebuild of the AeroPartsNow aerospace parts storefront. Real-time dynamic pricing engine on Lambda + DynamoDB + Elasticsearch. GraphQL APIs over AppSync. Mentored juniors and set the team's coding standards.</td>
-</tr>
-<tr>
-<td><b>Iolar Technologies</b><br/><sub>Full Stack Engineer</sub><br/><sub><code>DEC 2018 — AUG 2021</code></sub></td>
-<td>Architected an on-demand vehicle maintenance platform — MERN + React Native, real-time repair booking and tracking, an Uber-like experience for auto services. Maps, Razorpay, SMS and push integrated end to end. Recruited and mentored the engineering team.</td>
-</tr>
-<tr>
-<td><b>CMAE Technologies</b><br/><sub>Senior Full Stack Engineer</sub><br/><sub><code>JAN 2017 — DEC 2017</code></sub></td>
-<td>Backend for an IoT car platform: real-time vehicle telemetry over MQTT and CAN-BUS, ECU parsing off Raspberry Pi, collision detection, overspeed alerts, and geofenced theft prevention via MongoDB geospatial queries. Bridged the software and hardware teams.</td>
-</tr>
+<tr><td valign="top">
+
+### Lego Verse Module &nbsp;<img src="https://img.shields.io/badge/current-0EA5E9?style=flat-square&labelColor=0d1117" alt="current" />
+**Senior Full Stack Engineer · Co-Founder** &nbsp;·&nbsp; <sub><code>AUG 2023 — PRESENT</code></sub>
+
+Architected a full-stack AI-driven SaaS platform on AWS. LangChain and Hugging Face integrated for model inference, automating complex B2B workflows and enabling intelligent decision-making across processes. Microservices containerized with Docker and auto-scaling on ECS during peak loads. GraphQL APIs for efficient querying. CI/CD established through CDK and CloudFormation with automated testing.
+
+![](https://img.shields.io/badge/50%25-faster_deploys-0EA5E9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/99.99%25-uptime-0EA5E9?style=flat-square&labelColor=0d1117)
+
+<sub>`Next.js` · `React` · `Node.js` · `Lambda` · `DynamoDB` · `AWS CDK` · `LangChain` · `Hugging Face` · `GraphQL` · `Docker` · `ECS`</sub>
+
+</td></tr>
+<tr><td valign="top">
+
+### Epilot GmbH &nbsp;🇩🇪
+**Full Stack Engineer** &nbsp;·&nbsp; <sub><code>AUG 2022 — MAY 2023</code></sub>
+
+Built an import/export system for dynamic platform entities using JSON schema transformations — a Shopify-like model for arbitrary tenant data — enabling seamless data exchange and improving configurability for clients. Created a Storybook-driven UI component library with automated testing. Optimized React/Redux front-end performance, cutting bundle size. Collaborated across teams on scalable APIs for journey automation.
+
+![](https://img.shields.io/badge/95%25-UI_bugs_caught_pre--release-0EA5E9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/30%25-faster_load_times-0EA5E9?style=flat-square&labelColor=0d1117)
+
+<sub>`Node.js` · `React` · `TypeScript` · `Redux` · `Storybook` · `JSON Schema`</sub>
+
+</td></tr>
+<tr><td valign="top">
+
+### Aithinkers
+**Senior Software Developer** &nbsp;·&nbsp; <sub><code>MAY 2021 — AUG 2022</code></sub>
+
+Led the end-to-end redevelopment of the AeroPartsNow aerospace parts e-commerce front end, rebuilding core modules for a more responsive UI. Engineered a real-time dynamic pricing engine on Lambda, DynamoDB and Elasticsearch, improving pricing accuracy and enabling data-driven decisions. Developed GraphQL APIs with AppSync to synchronize complex data models, reducing API call redundancy. Automated CI/CD with SAM and CloudFormation. Mentored juniors and set the team's coding standards.
+
+<sub>`React` · `Node.js` · `Lambda` · `DynamoDB` · `Elasticsearch` · `AppSync` · `AWS SAM` · `CloudFormation`</sub>
+
+</td></tr>
+<tr><td valign="top">
+
+### Iolar Technologies
+**Full Stack Engineer** &nbsp;·&nbsp; <sub><code>DEC 2018 — AUG 2021</code></sub>
+
+Architected and built an on-demand vehicle maintenance platform — MERN stack with a React Native app — supporting real-time repair booking and tracking, an Uber-like experience for auto services. Node.js/Express backend APIs with EC2 and S3 for storage and processing. Integrated Google Maps for navigation, Razorpay for payments, Plivo for SMS and OneSignal for push. Led UX design and feature planning across web and mobile. Recruited and mentored the engineering team, establishing Agile practice.
+
+<sub>`React` · `React Native` · `Node.js` · `Express` · `MongoDB` · `EC2` · `S3` · `Google Maps` · `Razorpay`</sub>
+
+</td></tr>
+<tr><td valign="top">
+
+### CMAE Technologies
+**Senior Full Stack Engineer** &nbsp;·&nbsp; <sub><code>JAN 2017 — DEC 2017</code></sub>
+
+Architected the backend for an IoT car platform, processing real-time vehicle data over MQTT and CAN-BUS on AWS and storing metrics in MongoDB for driving-behaviour analysis. Python and Node.js modules captured and parsed ECU data from Raspberry Pi devices, enabling collision detection, overspeeding alerts and trip analysis. Engineered geofencing with Google Maps and MongoDB geospatial queries to trigger theft-prevention alerts. Built REST APIs and notification services. Led collaboration between the software and hardware teams from concept to prototype.
+
+<sub>`Python` · `Node.js` · `MQTT` · `CAN-BUS` · `MongoDB` · `Raspberry Pi` · `AWS` · `Plivo` · `OneSignal`</sub>
+
+</td></tr>
 </table>
 
 <div align="center">
