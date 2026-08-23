@@ -272,11 +272,12 @@ One command per project: cold boot, health verify, run the tests. Some stacks ne
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sathwikbairaboina2&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&bg_color=0d1117" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathwikbairaboina2&hide_border=true&background=0d1117&stroke=1e3a5f&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=475569" height="165" alt="Streak" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sathwikbairaboina2&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&bg_color=0d1117" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=sathwikbairaboina2&hide_border=true&background=0d1117&stroke=1e3a5f&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=475569" height="165" alt="Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikbairaboina2&layout=compact&langs_count=8&hide_border=true&title_color=0ea5e9&text_color=94a3b8&bg_color=0d1117" height="150" alt="Top languages" />
-<img src="https://github-profile-trophy.vercel.app/?username=sathwikbairaboina2&theme=discord&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" height="150" alt="Trophies" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sathwikbairaboina2&layout=compact&langs_count=8&hide_border=true&title_color=0ea5e9&text_color=94a3b8&bg_color=0d1117" height="150" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathwikbairaboina2&bg_color=0d1117&color=e2e8f0&line=0ea5e9&point=e2e8f0&area=true&area_color=0ea5e9&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Activity graph" />
 
 <br/><br/>
 
