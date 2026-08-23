@@ -1,167 +1,169 @@
-# Track Record — Five Treatments
+# Stack Tags — Six Treatments
 
-Existing cyan palette (`#0EA5E9` / `#0d1117`). Only this section changes; the rest of the README stays as it is on `main`.
-
----
-
-## T1 — Current (baseline)
-
-<table>
-<tr><td width="30%"><b>Lego Verse Module</b><br/><sub>Senior Full Stack Engineer · Co-Founder</sub><br/><sub><code>AUG 2023 — PRESENT</code></sub></td>
-<td>Full-stack AI-driven SaaS on AWS (Lambda, DynamoDB, CDK). LangChain + Hugging Face inference automating B2B workflows. CI/CD via CDK/CloudFormation — <b>50% faster deploys at 99.99% uptime</b>.</td></tr>
-<tr><td><b>Epilot GmbH</b> 🇩🇪<br/><sub>Full Stack Engineer</sub><br/><sub><code>AUG 2022 — MAY 2023</code></sub></td>
-<td>Import/export system for dynamic platform entities via JSON schema transformations. Storybook-driven component library catching <b>95% of UI bugs pre-release</b>. Cut bundle size for a <b>30% load-time improvement</b>.</td></tr>
-<tr><td><b>Aithinkers</b><br/><sub>Senior Software Developer</sub><br/><sub><code>MAY 2021 — AUG 2022</code></sub></td>
-<td>Led the end-to-end rebuild of the AeroPartsNow aerospace parts storefront. Real-time dynamic pricing engine on Lambda + DynamoDB + Elasticsearch. GraphQL APIs over AppSync.</td></tr>
-</table>
+GitHub strips inline `style` attributes from markdown HTML, so a real CSS border in a custom colour is not achievable. These are the six things that actually render. Same tag list every time.
 
 ---
 
-## T2 — Metrics-first
+## G1 — Current: inline code
 
-<sub>Pulls the quantified wins out of the prose and leads with them. The numbers are the strongest thing in your resume and right now they're buried mid-sentence.</sub>
+<sub>What's on `main` now. GitHub's default chip — soft grey fill, no border, colour follows the viewer's theme.</sub>
 
-<div align="center">
+`NestJS ×2` · `Next.js` · `LangGraph.js` · `LocalStack` · `Playwright`
 
-### Selected Results
-
-![](https://img.shields.io/badge/50%25-faster_deploys-0EA5E9?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/99.99%25-uptime-0EA5E9?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/95%25-UI_bugs_caught_pre--release-0EA5E9?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/30%25-faster_load_times-0EA5E9?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
-<table>
-<tr><td width="26%"><b>Lego Verse Module</b><br/><sub>Senior Full Stack Engineer · Co-Founder</sub><br/><sub><code>AUG 2023 — NOW</code></sub></td>
-<td>Full-stack AI-driven SaaS on AWS. LangChain + Hugging Face inference automating B2B workflows. Containerized microservices auto-scaling on ECS.<br/><sub><code>Next.js</code> <code>Node.js</code> <code>Lambda</code> <code>DynamoDB</code> <code>CDK</code> <code>LangChain</code> <code>GraphQL</code></sub></td></tr>
-<tr><td><b>Epilot GmbH</b> 🇩🇪<br/><sub>Full Stack Engineer</sub><br/><sub><code>AUG 2022 — MAY 2023</code></sub></td>
-<td>Import/export for dynamic platform entities via JSON schema transformations — a Shopify-like model for arbitrary tenant data. Storybook-driven component library.<br/><sub><code>Node.js</code> <code>React</code> <code>TypeScript</code> <code>Redux</code> <code>Storybook</code> <code>JSON Schema</code></sub></td></tr>
-<tr><td><b>Aithinkers</b><br/><sub>Senior Software Developer</sub><br/><sub><code>MAY 2021 — AUG 2022</code></sub></td>
-<td>Led the end-to-end rebuild of the AeroPartsNow aerospace storefront. Real-time dynamic pricing engine. GraphQL APIs over AppSync. Mentored juniors.<br/><sub><code>React</code> <code>Lambda</code> <code>DynamoDB</code> <code>Elasticsearch</code> <code>AppSync</code> <code>SAM</code></sub></td></tr>
-</table>
+`Electron 43` · `React 19` · `whisper.cpp` · `Silero VAD` · `Qdrant`
 
 ---
 
-## T3 — Timeline with rail
+## G2 — `<kbd>` — a genuine border
 
-<sub>Reads as a career arc rather than a list. Tenure length is visible at a glance.</sub>
+<sub>The only option with a true 1px border on all four sides. GitHub draws it itself, which is why it cannot be recoloured — it follows the viewer's theme (grey in light, lighter grey in dark). Slight 3D key-cap shading.</sub>
 
-```
-2026 ─┬─ ● LEGO VERSE MODULE  ·  Senior Full Stack Engineer, Co-Founder
-      │   ████████████████████████████  Aug 2023 — present
-      │   AI-driven SaaS on AWS · LangChain inference · 50% faster deploys
-      │
-2023 ─┼─ ● EPILOT GmbH 🇩🇪  ·  Full Stack Engineer
-      │   ████████  Aug 2022 — May 2023
-      │   JSON-schema entity import/export · Storybook library · 95% bugs caught
-      │
-2022 ─┼─ ● AITHINKERS  ·  Senior Software Developer
-      │   ████████████  May 2021 — Aug 2022
-      │   AeroPartsNow rebuild · real-time pricing engine · AppSync GraphQL
-      │
-2021 ─┼─ ● IOLAR TECHNOLOGIES  ·  Full Stack Engineer
-      │   ██████████████████████████  Dec 2018 — Aug 2021
-      │   On-demand vehicle maintenance · MERN + React Native · built the team
-      │
-2017 ─┴─ ● CMAE TECHNOLOGIES  ·  Senior Full Stack Engineer
-          █████████  Jan 2017 — Dec 2017
-          IoT car platform · MQTT + CAN-BUS telemetry · geofenced theft alerts
-```
+<kbd>NestJS ×2</kbd> <kbd>Next.js</kbd> <kbd>LangGraph.js</kbd> <kbd>LocalStack</kbd> <kbd>Playwright</kbd>
+
+<kbd>Electron 43</kbd> <kbd>React 19</kbd> <kbd>whisper.cpp</kbd> <kbd>Silero VAD</kbd> <kbd>Qdrant</kbd>
 
 ---
 
-## T4 — Card per role, metrics pulled out
+## G3 — Cyan edge bar
 
-<sub>Each role is its own block. Impact becomes badges instead of bold text mid-paragraph.</sub>
+<sub>Empty shields label in cyan, dark chip body. Reads as a coloured left border on every tag. Closest achievable to the ask.</sub>
 
-<table>
-<tr><td valign="top">
+![](https://img.shields.io/badge/-NestJS%20×2-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-LangGraph.js-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-LocalStack-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-Playwright-0d1117?style=flat-square&labelColor=0EA5E9)
 
-### Lego Verse Module &nbsp;<img src="https://img.shields.io/badge/current-0EA5E9?style=flat-square&labelColor=0d1117" alt="" />
-**Senior Full Stack Engineer · Co-Founder** &nbsp;·&nbsp; <sub><code>AUG 2023 — PRESENT</code></sub>
-
-Architected a full-stack AI-driven SaaS platform on AWS. LangChain and Hugging Face integrated for model inference, automating complex B2B workflows. Microservices containerized with Docker and auto-scaling on ECS. GraphQL APIs for efficient querying.
-
-![](https://img.shields.io/badge/50%25-faster_deploys-0EA5E9?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/99.99%25-uptime-0EA5E9?style=flat-square&labelColor=0d1117)
-
-<sub>`Next.js` · `Node.js` · `Lambda` · `DynamoDB` · `AWS CDK` · `LangChain` · `GraphQL` · `ECS`</sub>
-
-</td></tr>
-<tr><td valign="top">
-
-### Epilot GmbH 🇩🇪
-**Full Stack Engineer** &nbsp;·&nbsp; <sub><code>AUG 2022 — MAY 2023</code></sub>
-
-Built an import/export system for dynamic platform entities using JSON schema transformations — a Shopify-like model for arbitrary tenant data. Created a Storybook-driven UI component library with automated testing. Optimized the React/Redux front end.
-
-![](https://img.shields.io/badge/95%25-UI_bugs_caught_pre--release-0EA5E9?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/30%25-faster_load-0EA5E9?style=flat-square&labelColor=0d1117)
-
-<sub>`Node.js` · `React` · `TypeScript` · `Redux` · `Storybook` · `JSON Schema`</sub>
-
-</td></tr>
-<tr><td valign="top">
-
-### Aithinkers
-**Senior Software Developer** &nbsp;·&nbsp; <sub><code>MAY 2021 — AUG 2022</code></sub>
-
-Led the end-to-end redevelopment of the AeroPartsNow aerospace parts storefront. Engineered a real-time dynamic pricing engine on Lambda, DynamoDB and Elasticsearch. Developed GraphQL APIs with AppSync. Mentored juniors and set coding standards.
-
-<sub>`React` · `Node.js` · `Lambda` · `DynamoDB` · `Elasticsearch` · `AppSync` · `SAM`</sub>
-
-</td></tr>
-</table>
+![](https://img.shields.io/badge/-Electron%2043-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-React%2019-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-whisper.cpp-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-Silero%20VAD-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-Qdrant-0d1117?style=flat-square&labelColor=0EA5E9)
 
 ---
 
-## T5 — Collapsible
+## G4 — Solid cyan tags
 
-<sub>One line per role; detail on click. Compresses five roles into about 150px so the workshop stays the centre of gravity.</sub>
+<sub>Full cyan fill, dark text. No border, but maximum colour. Loudest of the six — competes with the stat badges above each card.</sub>
 
-<details>
-<summary><b>Lego Verse Module</b> — Senior Full Stack Engineer, Co-Founder &nbsp;<code>AUG 2023 — PRESENT</code></summary>
-<br/>
+![](https://img.shields.io/badge/NestJS%20×2-0EA5E9?style=flat-square&logoColor=0d1117)
+![](https://img.shields.io/badge/Next.js-0EA5E9?style=flat-square)
+![](https://img.shields.io/badge/LangGraph.js-0EA5E9?style=flat-square)
+![](https://img.shields.io/badge/LocalStack-0EA5E9?style=flat-square)
+![](https://img.shields.io/badge/Playwright-0EA5E9?style=flat-square)
 
-Architected a full-stack AI-driven SaaS platform on AWS (Lambda, DynamoDB, CDK). LangChain and Hugging Face integrated for advanced model inference, automating complex B2B workflows. Microservices containerized with Docker, auto-scaling on ECS. GraphQL APIs for efficient data querying. CI/CD via CDK/CloudFormation.
+![](https://img.shields.io/badge/Electron%2043-0EA5E9?style=flat-square)
+![](https://img.shields.io/badge/React%2019-0EA5E9?style=flat-square)
+![](https://img.shields.io/badge/whisper.cpp-0EA5E9?style=flat-square)
+![](https://img.shields.io/badge/Silero%20VAD-0EA5E9?style=flat-square)
+![](https://img.shields.io/badge/Qdrant-0EA5E9?style=flat-square)
 
-![](https://img.shields.io/badge/50%25-faster_deploys-0EA5E9?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/99.99%25-uptime-0EA5E9?style=flat-square&labelColor=0d1117)
+---
 
-</details>
+## G5 — Dark tags, navy edge
 
-<details>
-<summary><b>Epilot GmbH</b> 🇩🇪 — Full Stack Engineer &nbsp;<code>AUG 2022 — MAY 2023</code></summary>
-<br/>
+<sub>Same construction as G3 but the edge is `#1e3a5f` navy instead of cyan. Quieter — keeps cyan reserved for the numbers that matter.</sub>
 
-Import/export system for dynamic platform entities via JSON schema transformations. Storybook-driven UI component library with automated testing. React/Redux performance work — reduced bundle size, improved load times.
+![](https://img.shields.io/badge/-NestJS%20×2-0d1117?style=flat-square&labelColor=1e3a5f)
+![](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&labelColor=1e3a5f)
+![](https://img.shields.io/badge/-LangGraph.js-0d1117?style=flat-square&labelColor=1e3a5f)
+![](https://img.shields.io/badge/-LocalStack-0d1117?style=flat-square&labelColor=1e3a5f)
+![](https://img.shields.io/badge/-Playwright-0d1117?style=flat-square&labelColor=1e3a5f)
 
-![](https://img.shields.io/badge/95%25-UI_bugs_caught-0EA5E9?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/30%25-faster_load-0EA5E9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/-Electron%2043-0d1117?style=flat-square&labelColor=1e3a5f)
+![](https://img.shields.io/badge/-React%2019-0d1117?style=flat-square&labelColor=1e3a5f)
+![](https://img.shields.io/badge/-whisper.cpp-0d1117?style=flat-square&labelColor=1e3a5f)
+![](https://img.shields.io/badge/-Silero%20VAD-0d1117?style=flat-square&labelColor=1e3a5f)
+![](https://img.shields.io/badge/-Qdrant-0d1117?style=flat-square&labelColor=1e3a5f)
 
-</details>
+---
 
-<details>
-<summary><b>Aithinkers</b> — Senior Software Developer &nbsp;<code>MAY 2021 — AUG 2022</code></summary>
-<br/>
+## G6 — `<kbd>` inside a cyan rule
 
-Led end-to-end rebuild of the AeroPartsNow aerospace parts storefront. Real-time dynamic pricing engine on Lambda, DynamoDB and Elasticsearch. GraphQL APIs with AppSync. Automated CI/CD with SAM and CloudFormation. Mentored juniors.
+<sub>Real borders from G2, with a thin cyan divider above the row to carry the accent colour. Compromise: genuine borders plus cyan on the page.</sub>
 
-</details>
+<img src="https://img.shields.io/badge/-0EA5E9?style=flat-square&labelColor=0EA5E9&color=0EA5E9" height="2" width="120" alt="" />
 
-<details>
-<summary><b>Iolar Technologies</b> — Full Stack Engineer &nbsp;<code>DEC 2018 — AUG 2021</code></summary>
-<br/>
+<kbd>NestJS ×2</kbd> <kbd>Next.js</kbd> <kbd>LangGraph.js</kbd> <kbd>LocalStack</kbd> <kbd>Playwright</kbd>
 
-Architected an on-demand vehicle maintenance platform — MERN stack with a React Native app, real-time repair booking and tracking. Integrated Google Maps, Razorpay, Plivo SMS and OneSignal push. Recruited and mentored the engineering team.
+<img src="https://img.shields.io/badge/-0EA5E9?style=flat-square&labelColor=0EA5E9&color=0EA5E9" height="2" width="120" alt="" />
 
-</details>
+<kbd>Electron 43</kbd> <kbd>React 19</kbd> <kbd>whisper.cpp</kbd> <kbd>Silero VAD</kbd> <kbd>Qdrant</kbd>
 
-<details>
-<summary><b>CMAE Technologies</b> — Senior Full Stack Engineer &nbsp;<code>JAN 2017 — DEC 2017</code></summary>
-<br/>
+---
 
-Backend for an IoT car platform: real-time vehicle telemetry over MQTT and CAN-BUS, ECU parsing off Raspberry Pi, collision detection, overspeed alerts, geofenced theft prevention via MongoDB geospatial queries.
+## In context — G3 inside a real card
 
-</details>
+<table><tr><td width="50%" valign="top">
+
+#### 🏬 &nbsp;marketplace
+**Multi-tenant commerce + schema agent**
+
+*A chat that safely rewrites your database schema.*
+
+Two services decoupled by an SQS FIFO queue. A deterministic engine enforces a per-tenant dynamic schema registry; a LangGraph layer turns a conversation into a validated schema-change proposal.
+
+![](https://img.shields.io/badge/37.9k_lines-0d1117?style=flat-square)
+![](https://img.shields.io/badge/489_files-0d1117?style=flat-square)
+![](https://img.shields.io/badge/293_commits-0EA5E9?style=flat-square&labelColor=0d1117)
+
+![](https://img.shields.io/badge/-NestJS%20×2-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-LangGraph.js-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-LocalStack-0d1117?style=flat-square&labelColor=0EA5E9)
+
+</td><td width="50%" valign="top">
+
+#### 👻 &nbsp;Invisible
+**Capture-excluded meeting overlay**
+
+*Transparent to you. Invisible to the screen recorder.*
+
+Listens, transcribes, streams advice onto an overlay excluded from screen capture. **~673 ms to first word.** Audio never hits disk.
+
+![](https://img.shields.io/badge/8.7k_lines-0d1117?style=flat-square)
+![](https://img.shields.io/badge/68_files-0d1117?style=flat-square)
+![](https://img.shields.io/badge/74_commits-0EA5E9?style=flat-square&labelColor=0d1117)
+
+![](https://img.shields.io/badge/-Electron%2043-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-React%2019-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-whisper.cpp-0d1117?style=flat-square&labelColor=0EA5E9)
+![](https://img.shields.io/badge/-Qdrant-0d1117?style=flat-square&labelColor=0EA5E9)
+
+</td></tr></table>
+
+---
+
+## In context — G2 `<kbd>` inside a real card
+
+<table><tr><td width="50%" valign="top">
+
+#### 🏬 &nbsp;marketplace
+**Multi-tenant commerce + schema agent**
+
+*A chat that safely rewrites your database schema.*
+
+Two services decoupled by an SQS FIFO queue. A deterministic engine enforces a per-tenant dynamic schema registry; a LangGraph layer turns a conversation into a validated schema-change proposal.
+
+![](https://img.shields.io/badge/37.9k_lines-0d1117?style=flat-square)
+![](https://img.shields.io/badge/489_files-0d1117?style=flat-square)
+![](https://img.shields.io/badge/293_commits-0EA5E9?style=flat-square&labelColor=0d1117)
+
+<kbd>NestJS ×2</kbd> <kbd>Next.js</kbd> <kbd>LangGraph.js</kbd> <kbd>LocalStack</kbd>
+
+</td><td width="50%" valign="top">
+
+#### 👻 &nbsp;Invisible
+**Capture-excluded meeting overlay**
+
+*Transparent to you. Invisible to the screen recorder.*
+
+Listens, transcribes, streams advice onto an overlay excluded from screen capture. **~673 ms to first word.** Audio never hits disk.
+
+![](https://img.shields.io/badge/8.7k_lines-0d1117?style=flat-square)
+![](https://img.shields.io/badge/68_files-0d1117?style=flat-square)
+![](https://img.shields.io/badge/74_commits-0EA5E9?style=flat-square&labelColor=0d1117)
+
+<kbd>Electron 43</kbd> <kbd>React 19</kbd> <kbd>whisper.cpp</kbd> <kbd>Qdrant</kbd>
+
+</td></tr></table>
