@@ -14,10 +14,11 @@
 
 <br/>
 
-![Lines](https://img.shields.io/badge/~160k-lines-0EA5E9?style=flat-square&labelColor=0d1117)
-![Commits](https://img.shields.io/badge/1,080-commits-0EA5E9?style=flat-square&labelColor=0d1117)
+![Lines](https://img.shields.io/badge/270k-lines-0EA5E9?style=flat-square&labelColor=0d1117)
+![Commits](https://img.shields.io/badge/2,357-commits-0EA5E9?style=flat-square&labelColor=0d1117)
 ![Tests](https://img.shields.io/badge/2,875-tests-0EA5E9?style=flat-square&labelColor=0d1117)
-![Systems](https://img.shields.io/badge/10-systems-1e3a5f?style=flat-square&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/25-repos-0EA5E9?style=flat-square&labelColor=0d1117)
+![Systems](https://img.shields.io/badge/10-flagship_systems-1e3a5f?style=flat-square&labelColor=0d1117)
 ![Bootable](https://img.shields.io/badge/9-cold_bootable-1e3a5f?style=flat-square&labelColor=0d1117)
 ![Years](https://img.shields.io/badge/8%2B-years-1e3a5f?style=flat-square&labelColor=0d1117)
 
@@ -118,9 +119,9 @@ Lately that thesis lives in a workshop of **ten local-first AI systems** running
 
 Two services decoupled by an SQS FIFO queue. A deterministic engine enforces a per-tenant dynamic schema registry; a LangGraph layer turns a conversation into a validated schema-change proposal. The agent never writes to the registry — it emits proposals the engine adjudicates.
 
-![](https://img.shields.io/badge/37.9k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/489_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/293_commits-0EA5E9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/30.8k_lines-0d1117?style=flat-square)
+![](https://img.shields.io/badge/389_files-0d1117?style=flat-square)
+![](https://img.shields.io/badge/346_commits-0EA5E9?style=flat-square&labelColor=0d1117)
 
 `NestJS ×2` · `Next.js` · `LangGraph.js` · `LocalStack` · `Playwright`
 
@@ -134,9 +135,9 @@ Two services decoupled by an SQS FIFO queue. A deterministic engine enforces a p
 
 Create AI characters with a persona, chat over a token stream, publish, follow other creators. Rebuilt from an AWS-Lambda prototype into two NestJS monoliths with a local-first dev stack. Shipped as four vertical slices — each a complete flow, never a layer.
 
-![](https://img.shields.io/badge/34.1k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/399_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/277_commits-0EA5E9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/53.2k_lines-0d1117?style=flat-square)
+![](https://img.shields.io/badge/311_files-0d1117?style=flat-square)
+![](https://img.shields.io/badge/337_commits-0EA5E9?style=flat-square&labelColor=0d1117)
 
 `NestJS ×2` · `LangGraph` · `Ollama` · `SQS FIFO` · `Redis` · `Cognito`
 
@@ -145,15 +146,15 @@ Create AI characters with a persona, chat over a token stream, publish, follow o
 <tr>
 <td width="50%" valign="top">
 
-#### 📈 &nbsp;[RakshaQuant](https://github.com/sathwikbairaboina2/TradingAgent)
+#### 📈 &nbsp;[RakshaQuant](https://github.com/sathwikbairaboina2/RakshaQuant)
 **Agentic NSE paper trading**
 
 *Let the model read the market. Never let it place the order.*
 
 A LangGraph pipeline of Groq-backed agents classifies market regime, picks strategies, validates signals. A deterministic rules engine does final approval, sizing and limits. Studied and hardened to v2.1 against a nine-defect audit. Paper-only by default.
 
-![](https://img.shields.io/badge/25.1k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/112_commits-0EA5E9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/19.9k_lines-0d1117?style=flat-square)
+![](https://img.shields.io/badge/113_commits-0EA5E9?style=flat-square&labelColor=0d1117)
 
 `Python 3.11` · `LangGraph` · `Groq` · `LangSmith` · `uv`
 
@@ -167,9 +168,9 @@ A LangGraph pipeline of Groq-backed agents classifies market regime, picks strat
 
 Progress is per-concept mastery that decays over time. Planning, difficulty selection, review scheduling and feedback are all queries against that one model — and it replays from the attempt log, so mastery can never drift from evidence. Graded by a synthetic-learner harness.
 
-![](https://img.shields.io/badge/15.5k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/199_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/89_commits-0EA5E9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/9.3k_lines-0d1117?style=flat-square)
+![](https://img.shields.io/badge/130_files-0d1117?style=flat-square)
+![](https://img.shields.io/badge/91_commits-0EA5E9?style=flat-square&labelColor=0d1117)
 
 `NestJS ×2` · `LangGraph.js` · `mathjs` · `DynamoDB + S3`
 
@@ -185,9 +186,9 @@ Progress is per-concept mastery that decays over time. Planning, difficulty sele
 
 Entirely on your own hardware. A local LLM writes the script; ComfyUI renders the panels; dialogue is composited at export so lettering stays crisp and editable. Every generation step is schema-validated and retried — characters keep a canonical appearance descriptor across panels.
 
-![](https://img.shields.io/badge/14.4k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/141_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/110_commits-0EA5E9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/10.2k_lines-0d1117?style=flat-square)
+![](https://img.shields.io/badge/97_files-0d1117?style=flat-square)
+![](https://img.shields.io/badge/111_commits-0EA5E9?style=flat-square&labelColor=0d1117)
 
 `Python 3.12` · `FastAPI` · `ComfyUI / FLUX` · `Ollama` · `Pydantic v2`
 
@@ -201,9 +202,9 @@ Entirely on your own hardware. A local LLM writes the script; ComfyUI renders th
 
 Listens to a live conversation, transcribes it, streams advice onto an overlay excluded from screen capture. **~673 ms to first word.** Audio never hits disk, transcript is memory-only capped at 40 turns, one keystroke clears everything. Ships with an honest statement of its own legal limits.
 
-![](https://img.shields.io/badge/8.7k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/68_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/74_commits-0EA5E9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/7.0k_lines-0d1117?style=flat-square)
+![](https://img.shields.io/badge/56_files-0d1117?style=flat-square)
+![](https://img.shields.io/badge/148_commits-0EA5E9?style=flat-square&labelColor=0d1117)
 
 `Electron 43` · `React 19` · `whisper.cpp` · `Silero VAD` · `Qdrant`
 
@@ -219,9 +220,9 @@ Listens to a live conversation, transcribes it, streams advice onto an overlay e
 
 Self-hosted content loop for a small number of Business accounts. Upload media, a drafting worker writes the caption and picks the next free slot from the account's posting windows, a human approves, a state machine publishes.
 
-![](https://img.shields.io/badge/9.0k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/145_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/51_commits-0EA5E9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/6.0k_lines-0d1117?style=flat-square)
+![](https://img.shields.io/badge/105_files-0d1117?style=flat-square)
+![](https://img.shields.io/badge/54_commits-0EA5E9?style=flat-square&labelColor=0d1117)
 
 `NestJS` · `Next.js` · `BullMQ` · `MinIO / S3` · `Anthropic` · `Zod`
 
@@ -235,9 +236,9 @@ Self-hosted content loop for a small number of Business accounts. Upload media, 
 
 Projects, todos, habits and reflection, managed by a LangGraph agent over voice, plus AI daily and weekly summaries. Every single action also has a manual path — the AI is an accelerator, never a dependency.
 
-![](https://img.shields.io/badge/8.1k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/111_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/45_commits-0EA5E9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/13.0k_lines-0d1117?style=flat-square)
+![](https://img.shields.io/badge/157_files-0d1117?style=flat-square)
+![](https://img.shields.io/badge/68_commits-0EA5E9?style=flat-square&labelColor=0d1117)
 
 `NestJS` · `Next.js` · `faster-whisper` · `kokoro TTS` · `LocalStack`
 
@@ -253,9 +254,9 @@ Projects, todos, habits and reflection, managed by a LangGraph agent over voice,
 
 Measures how discoverable and citable a site is to AI search engines, tracks it over time, captures the leads who asked. Built on three claims: AI crawlers mostly don't execute JS, cited passages cluster at 134–167 words, and `sameAs` entity linking is the strongest structured-data signal.
 
-![](https://img.shields.io/badge/7.7k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/74_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/29_commits-0EA5E9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/8.9k_lines-0d1117?style=flat-square)
+![](https://img.shields.io/badge/64_files-0d1117?style=flat-square)
+![](https://img.shields.io/badge/31_commits-0EA5E9?style=flat-square&labelColor=0d1117)
 
 `NestJS` · `Turborepo + pnpm` · `DynamoDB` · `LangGraph.js`
 
@@ -269,8 +270,10 @@ Measures how discoverable and citable a site is to AI search engines, tracks it 
 
 Two containers, one fetch worker thread. That single thread is the only code that talks to Instagram, which makes request serialization *structural* rather than a convention. All vendor code confined to one directory — an upstream breakage has a one-directory blast radius.
 
+![](https://img.shields.io/badge/12.8k_lines-0d1117?style=flat-square)
 ![](https://img.shields.io/badge/2_containers-0d1117?style=flat-square)
-![](https://img.shields.io/badge/1_worker_thread-0EA5E9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/1_worker_thread-0d1117?style=flat-square)
+![](https://img.shields.io/badge/127_commits-0EA5E9?style=flat-square&labelColor=0d1117)
 
 `Next.js` · `FastAPI` · `Instaloader` · `Docker`
 
@@ -311,6 +314,34 @@ Built on open-source transformer and diffusion models with a fully integrated fr
 
 <div align="center">
 <sub>Repos without a <b>public</b> tag are private — happy to walk anyone through them.</sub>
+</div>
+
+<div align="center">
+
+### `the rest of the bench`
+
+<sub>Thirteen more repos &mdash; plugins, services and tools that feed the ten above.</sub>
+
+</div>
+
+| | | <sub>lines</sub> | <sub>commits</sub> |
+|---|---|--:|--:|
+| **instastudio** | Structured JSON into Instagram-ready handwritten-notes carousels, with an AI revise chat and optional ComfyUI polish. | <sub>7.6k</sub> | <sub>240</sub> |
+| **research assistant** | Local-only deep research. Fans a question across free channels using a local Qwen model and returns a cited report with the whole process visible live. | <sub>15.7k</sub> | <sub>117</sub> |
+| **AI Avatara front end** | The Next.js web client for the live AI Avatara platform. | <sub>7.5k</sub> | <sub>195</sub> |
+| **jobs reel** | A weekly sheet of open roles becomes one 60-second vertical reel carrying the shape of the week. | <sub>11.2k</sub> | <sub>82</sub> |
+| **reel renderer** | JSON in, reel out. A FastAPI service rendering Remotion reels in four themes. | <sub>3.4k</sub> | <sub>56</sub> |
+| **HearSync** | Upload a PDF and read it in a reflowed reader that reads to you &mdash; or follows along while you read aloud. | <sub>7.9k</sub> | <sub>46</sub> |
+| **AI Avatara infra** | AWS CDK infrastructure for the AI Avatara platform. | <sub>2.7k</sub> | <sub>44</sub> |
+| **instacreator** | Takes a reference Instagram post and produces an original one: analyse, concept it out with you, generate, bundle. | <sub>10.4k</sub> | <sub>43</sub> |
+| **ComicGen Pro** | Director-grade comic and episode generator. Writers room on local Ollama, hard credit governance. | <sub>5.0k</sub> | <sub>32</sub> |
+| **reelscout** | A topic becomes a reviewed pack of source material. Six source hunters plus an adversarial critic; you decide what survives. | <sub>5.3k</sub> | <sub>16</sub> |
+| **lipsync desk** | Reference image plus an audio file in, a closeup video of a person speaking it out. | <sub>6.2k</sub> | <sub>15</sub> |
+| **webpage &rarr; mp4** | A list of links becomes a vertical reel that looks like someone browsing each page on a phone. | <sub>4.6k</sub> | <sub>2</sub> |
+| **Vyuha** | NSE index options assistant. Design spec approved; implementation not started. | <sub>&mdash;</sub> | <sub>3</sub> |
+
+<div align="center">
+<sub>All private. <code>_devkit</code> above is the harness that boots the ones that run.</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:0f172a&height=3&section=header" width="100%" alt="" />
