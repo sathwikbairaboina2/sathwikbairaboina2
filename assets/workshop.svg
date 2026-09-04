@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 424" width="1200" height="424" role="img" aria-label="Bar chart of the ten workshop systems by lines of code and commits">
+  <rect width="1200" height="424" rx="20" fill="#FFFBF5"/>
+
+  <text x="40" y="44" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="14" font-weight="700" fill="#10100E" letter-spacing="3">THE WORKSHOP</text>
+  <text x="1160" y="44" text-anchor="end" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="12" fill="#8A8A80">code lines &#183; commits</text>
+  <line x1="40" y1="58" x2="1160" y2="58" stroke="#10100E" stroke-width="2" opacity="0.15"/>
+
+  <g font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="13">
+    <g transform="translate(0,76)">
+      <text x="40" y="14" font-weight="700" fill="#10100E">Avatara</text>
+      <rect x="220" y="2" width="760" height="16" rx="8" fill="#FF5A36"/>
+      <text x="1160" y="14" text-anchor="end" fill="#5B5B52">54.2k &#183; 337</text>
+    </g>
+    <g transform="translate(0,110)">
+      <text x="40" y="14" font-weight="700" fill="#10100E">marketplace</text>
+      <rect x="220" y="2" width="432" height="16" rx="8" fill="#FF3D8B"/>
+      <text x="1160" y="14" text-anchor="end" fill="#5B5B52">30.8k &#183; 346</text>
+    </g>
+    <g transform="translate(0,144)">
+      <text x="40" y="14" font-weight="700" fill="#10100E">RakshaQuant</text>
+      <rect x="220" y="2" width="360" height="16" rx="8" fill="#6D4AFF"/>
+      <text x="1160" y="14" text-anchor="end" fill="#5B5B52">25.7k &#183; 113</text>
+    </g>
+    <g transform="translate(0,178)">
+      <text x="40" y="14" font-weight="700" fill="#10100E">ComicGen</text>
+      <rect x="220" y="2" width="199" height="16" rx="8" fill="#FFB800"/>
+      <text x="1160" y="14" text-anchor="end" fill="#5B5B52">14.2k &#183; 111</text>
+    </g>
+    <g transform="translate(0,212)">
+      <text x="40" y="14" font-weight="700" fill="#10100E">personalAssistant</text>
+      <rect x="220" y="2" width="184" height="16" rx="8" fill="#00C2A8"/>
+      <text x="1160" y="14" text-anchor="end" fill="#5B5B52">13.1k &#183; 68</text>
+    </g>
+    <g transform="translate(0,246)">
+      <text x="40" y="14" font-weight="700" fill="#10100E">instascraper</text>
+      <rect x="220" y="2" width="178" height="16" rx="8" fill="#FF5A36"/>
+      <text x="1160" y="14" text-anchor="end" fill="#5B5B52">12.7k &#183; 127</text>
+    </g>
+    <g transform="translate(0,280)">
+      <text x="40" y="14" font-weight="700" fill="#10100E">PersonalAITutor</text>
+      <rect x="220" y="2" width="129" height="16" rx="8" fill="#FF3D8B"/>
+      <text x="1160" y="14" text-anchor="end" fill="#5B5B52">9.2k &#183; 91</text>
+    </g>
+    <g transform="translate(0,314)">
+      <text x="40" y="14" font-weight="700" fill="#10100E">AeoGeo</text>
+      <rect x="220" y="2" width="115" height="16" rx="8" fill="#6D4AFF"/>
+      <text x="1160" y="14" text-anchor="end" fill="#5B5B52">8.2k &#183; 31</text>
+    </g>
+    <g transform="translate(0,348)">
+      <text x="40" y="14" font-weight="700" fill="#10100E">Invisible</text>
+      <rect x="220" y="2" width="98" height="16" rx="8" fill="#FFB800"/>
+      <text x="1160" y="14" text-anchor="end" fill="#5B5B52">7.0k &#183; 148</text>
+    </g>
+    <g transform="translate(0,382)">
+      <text x="40" y="14" font-weight="700" fill="#10100E">IntaBot</text>
+      <rect x="220" y="2" width="84" height="16" rx="8" fill="#00C2A8"/>
+      <text x="1160" y="14" text-anchor="end" fill="#5B5B52">6.0k &#183; 54</text>
+    </g>
+  </g>
+</svg>
