@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-label="Diagram: a probabilistic edge proposes, a deterministic core decides, and tests guard the boundary">
+  <defs>
+    <marker id="arw" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L12 6 L0 12 z" fill="#10100E"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="430" rx="20" fill="#FFFBF5"/>
+
+  <!-- EDGE -->
+  <rect x="60" y="36" width="1080" height="104" rx="16" fill="#FFF0EC" stroke="#FF5A36" stroke-width="3"/>
+  <text x="88" y="72" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="15" font-weight="700" fill="#FF5A36" letter-spacing="2">PROBABILISTIC EDGE</text>
+  <text x="88" y="103" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="19" font-weight="700" fill="#10100E">classify &#183; draft &#183; propose &#183; rank &#183; summarise</text>
+  <text x="88" y="126" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="13" fill="#6B6B60">LangGraph &#183; Ollama &#183; Groq &#183; whisper.cpp &#183; ComfyUI</text>
+
+  <!-- arrow down -->
+  <line x1="600" y1="140" x2="600" y2="196" stroke="#10100E" stroke-width="3" marker-end="url(#arw)"/>
+  <rect x="640" y="152" width="256" height="30" rx="15" fill="#10100E"/>
+  <text x="768" y="172" text-anchor="middle" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="13" font-weight="700" fill="#FFFBF5">proposals only &#8212; never writes</text>
+
+  <!-- CORE -->
+  <rect x="60" y="204" width="1080" height="118" rx="16" fill="#E9FBF6" stroke="#00A88F" stroke-width="4"/>
+  <text x="88" y="240" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="15" font-weight="700" fill="#00A88F" letter-spacing="2">DETERMINISTIC CORE</text>
+  <text x="88" y="270" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="19" font-weight="700" fill="#10100E">owns state &#183; money &#183; limits &#183; schema &#183; identity</text>
+
+  <g font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="13" font-weight="700" fill="#10100E">
+    <rect x="88"  y="284" width="118" height="26" rx="13" fill="#FFFBF5" stroke="#00A88F" stroke-width="2"/><text x="147" y="302" text-anchor="middle">validate</text>
+    <rect x="218" y="284" width="118" height="26" rx="13" fill="#FFFBF5" stroke="#00A88F" stroke-width="2"/><text x="277" y="302" text-anchor="middle">approve</text>
+    <rect x="348" y="284" width="118" height="26" rx="13" fill="#FFFBF5" stroke="#00A88F" stroke-width="2"/><text x="407" y="302" text-anchor="middle">size</text>
+    <rect x="478" y="284" width="150" height="26" rx="13" fill="#FFFBF5" stroke="#00A88F" stroke-width="2"/><text x="553" y="302" text-anchor="middle">commit + audit</text>
+  </g>
+
+  <line x1="600" y1="322" x2="600" y2="352" stroke="#10100E" stroke-width="3" marker-end="url(#arw)"/>
+
+  <!-- PROOF -->
+  <rect x="300" y="358" width="600" height="46" rx="23" fill="#6D4AFF"/>
+  <text x="600" y="387" text-anchor="middle" font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">tests assert every declared limit is actually enforced</text>
+</svg>
