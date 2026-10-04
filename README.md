@@ -1,6 +1,6 @@
 # Sathwik Bairaboina
 
-> **Senior Full Stack Engineer · AI Workflow Architect.** The model proposes. The deterministic core disposes.
+> **Senior Full Stack Engineer · AI Solution Architect.** The model proposes. The deterministic core disposes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwik-bairaboina-630433182/) [![Email](https://img.shields.io/badge/bairaboinasathwik@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:bairaboinasathwik@gmail.com) [![Portfolio](https://img.shields.io/badge/AI_Avatara-live-22c55e)](https://www.aiavatara.chat/about) [![Demo](https://img.shields.io/badge/demo-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/5753AhC2ysw)
 
