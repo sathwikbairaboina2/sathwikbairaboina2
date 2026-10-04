@@ -40,7 +40,7 @@ Nineteen open-source repos. Every number below comes from a benchmark committed 
 | | repo | what it is | measured |
 |:-:|---|---|---|
 | 🚦 | [**tollgate**](https://github.com/sathwikbairaboina2/tollgate) | LLM gateway in Go. <sub>Go · OpenTelemetry · Prometheus</sub> | `+0.129 ms p50`<br/>`91.5% cost cut` |
-| 🛡️ | [**toolwarden**](https://github.com/sathwikbairaboina2/toolwarden) | MCP security auditor. <sub>TypeScript · MCP SDK · GitHub Action</sub> | `17 rules`<br/>`SARIF 2.1.0` |
+| 🛡️ | [**toolwarden**](https://github.com/sathwikbairaboina2/toolwarden) | MCP security auditor. <sub>TypeScript · MCP SDK · GitHub Action</sub> | `5 MCP servers scanned`<br/>`6 findings, all reviewed` |
 | 🧪 | [**evalgate**](https://github.com/sathwikbairaboina2/evalgate) | Agent regression tests in CI. <sub>TypeScript · GitHub Action · LLM judge</sub> | `p = 0.031 caught`<br/>`κ 1.0 judge` |
 | 🏗️ | [**infra-agent**](https://github.com/sathwikbairaboina2/infra-agent) | Guardrailed Terraform agent. <sub>Python · LangGraph · Terraform · OPA</sub> | `0 / 24 violations applied` |
 | 🔎 | [**deep-research**](https://github.com/sathwikbairaboina2/deep-research) | Research agent with a citation verifier. <sub>Python · LangGraph · Ollama</sub> | `0 bad citations shipped`<br/>`812 / 812 fakes rejected` |
@@ -74,7 +74,7 @@ Nineteen open-source repos. Every number below comes from a benchmark committed 
 
 | | repo | what it is | measured |
 |:-:|---|---|---|
-| 🪄 | [**inpaint-web**](https://github.com/sathwikbairaboina2/inpaint-web) | In-browser object removal. <sub>TypeScript · onnxruntime-web · WebGPU</sub> | `43.5× WebGPU vs WASM` |
+| 🪄 | [**inpaint-web**](https://github.com/sathwikbairaboina2/inpaint-web) | In-browser object removal. <sub>TypeScript · onnxruntime-web · WebGPU</sub> | `38.9× WebGPU vs WASM` |
 | 📈 | [**webgpu-chart**](https://github.com/sathwikbairaboina2/webgpu-chart) | Streaming chart on WebGPU. <sub>TypeScript · WebGPU · WGSL</sub> | `p95 6.4 ms vs 46.7 ms uPlot` |
 | 🖍️ | [**whiteboard**](https://github.com/sathwikbairaboina2/whiteboard) | Local-first whiteboard. <sub>TypeScript · Yjs · WebRTC</sub> | `3.2 ms p95 paint, 10k shapes` |
 | 🎨 | [**design-system**](https://github.com/sathwikbairaboina2/design-system) | Design system and micro-frontends. <sub>React · Module Federation · Storybook</sub> | `88 screenshots`<br/>`0 serious a11y` |
@@ -96,7 +96,7 @@ Ten systems that run on my own hardware, plus the harness that boots them and th
 
 | | repo | what it is | measured |
 |:-:|---|---|---|
-| 🎭 | [**Avatara**](https://github.com/sathwikbairaboina2/Avatara) | Character chat platform. character.ai, rebuilt to run on your own box. <sub>NestJS ×2 · LangGraph · Ollama · SQS FIFO · Redis · Cognito</sub> | `53.2k lines`<br/>`337 commits` |
+| 🎭 | [**Avatara**](https://github.com/sathwikbairaboina2/avatara-backend) <sub>`public`</sub> | Character chat for ages 6 to 17. Every sentence passes a deterministic safety gate before it streams; the model runs locally. <sub>NestJS ×2 · Next.js · LangGraph · Ollama · Redis · DynamoDB</sub> | `53.2k lines`<br/>`337 commits` |
 | 💥 | [**ComicGen**](https://github.com/sathwikbairaboina2/ComicGen) <sub>`public`</sub> | Local comic studio. A topic goes in; a finished, lettered comic page comes out. <sub>Python 3.12 · FastAPI · ComfyUI / FLUX · Ollama · Pydantic v2</sub> | `10.2k lines`<br/>`111 commits` |
 | 👻 | [**Invisible**](https://github.com/sathwikbairaboina2/Invisible) <sub>`public`</sub> | Capture-excluded meeting overlay. Live transcription and advice the screen recorder never sees. <sub>Electron 43 · React 19 · whisper.cpp · Silero VAD · Qdrant</sub> | `~673 ms to first word`<br/>`148 commits` |
 | 🗓️ | [**personalAssistant**](https://github.com/sathwikbairaboina2/personalAssistant) | Local-first life tracker with voice. Every action also works with the AI switched off. <sub>NestJS · Next.js · faster-whisper · kokoro TTS · LocalStack</sub> | `13.0k lines`<br/>`68 commits` |
@@ -133,7 +133,7 @@ Thirteen more private repos: plugins, services and tools that feed the systems a
 | 🧭 | **reelscout** | A topic becomes a reviewed pack of source material: six source hunters plus an adversarial critic. | `5.3k lines`<br/>`16 commits` |
 | 🗣️ | **lipsync desk** | Reference image plus an audio file in, a closeup video of a person speaking it out. | `6.2k lines`<br/>`15 commits` |
 | 📱 | **webpage → mp4** | A list of links becomes a vertical reel that looks like someone browsing each page on a phone. | `4.6k lines`<br/>`2 commits` |
-| 🧮 | **Vyuha** | NSE index options assistant. Design spec approved; implementation not started. | `spec only`<br/>`3 commits` |
+| 🧮 | **Vyuha** | A curated per-person profile for LLM apps. The model proposes edits; the library validates, scans and writes them. | `TypeScript library`<br/>`11 commits` |
 
 ## `work experience`
 
