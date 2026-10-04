@@ -1,330 +1,39 @@
-<div align="center">
+# Sathwik Bairaboina
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:1e3a5f,100:0ea5e9&height=120&section=header" width="100%" alt="" />
+> **Senior Full Stack Engineer · AI Workflow Architect.** The model proposes. The deterministic core disposes.
 
-# SATHWIK BAIRABOINA
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwik-bairaboina-630433182/) [![Email](https://img.shields.io/badge/bairaboinasathwik@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:bairaboinasathwik@gmail.com) [![Portfolio](https://img.shields.io/badge/AI_Avatara-live-22c55e)](https://www.aiavatara.chat/about) [![Demo](https://img.shields.io/badge/demo-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/5753AhC2ysw)
 
-### Senior Full Stack Engineer &nbsp;·&nbsp; AI Workflow Architect
+| years | public repos | workshop repos | workshop lines | workshop commits | workshop tests |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| **8+** | **19** | **25** | **270k** | **2,357** | **2,875** |
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3400&pause=800&color=0EA5E9&center=true&vCenter=true&width=760&lines=The+model+proposes.+The+core+disposes.;LangGraph+agents+that+never+touch+the+money+path;Local-first+AI+%E2%80%94+nothing+leaves+the+host;Deterministic+cores%2C+probabilistic+edges" alt="Thesis" />
-
-<br/>
-
-<a href="https://linkedin.com/in/sathwik-bairaboina-630433182/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:bairaboinasathwik@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://www.aiavatara.chat/about"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="https://youtu.be/5753AhC2ysw"><img src="https://img.shields.io/badge/Watch_the_demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo" /></a>
-
-<br/>
-
-![Lines](https://img.shields.io/badge/270k-lines-0EA5E9?style=flat-square&labelColor=0d1117)
-![Commits](https://img.shields.io/badge/2,357-commits-0EA5E9?style=flat-square&labelColor=0d1117)
-![Tests](https://img.shields.io/badge/2,875-tests-0EA5E9?style=flat-square&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/25-repos-0EA5E9?style=flat-square&labelColor=0d1117)
-![Systems](https://img.shields.io/badge/10-flagship_systems-1e3a5f?style=flat-square&labelColor=0d1117)
-![Bootable](https://img.shields.io/badge/9-cold_bootable-1e3a5f?style=flat-square&labelColor=0d1117)
-![Years](https://img.shields.io/badge/8%2B-years-1e3a5f?style=flat-square&labelColor=0d1117)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:0f172a&height=3&section=header" width="100%" alt="" />
-
-<div align="center">
-
-### `whoami`
-
-</div>
+## `whoami`
 
 Full stack engineer, eight years of it. Currently co-founding **Lego Verse Module**, building AI-driven SaaS on AWS.
 
-I care about one line in a system design more than any other: **where the model is allowed to make a decision, and where it absolutely is not.**
-
-Almost everything I ship has the same skeleton — a deterministic core that owns state, money and limits, wrapped in a probabilistic layer that *proposes* rather than executes. Then a test asserting every declared limit is actually enforced. That last part is where most agentic systems quietly fail.
-
-Lately that thesis lives in a workshop of **ten local-first AI systems** running on my own hardware. Trading agents, tutors, comic pipelines, meeting overlays. No API bills, no telemetry, nothing phoning home.
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center"><h4>⛓️ &nbsp;LLM never executes</h4><sub>Models classify, draft and propose.<br/>A rules engine approves, sizes and commits.<br/>The boundary is enforced by tests, not convention.</sub></td>
-<td width="33%" align="center"><h4>🏠 &nbsp;Local-first by default</h4><sub>Ollama, whisper.cpp, ComfyUI, Qdrant.<br/>If it can run on the host, it does.<br/>Cloud is a deployment target, not a dependency.</sub></td>
-<td width="33%" align="center"><h4>🔪 &nbsp;Vertical slices</h4><sub>Ship a complete flow, not a layer.<br/>Four slices beat four tiers —<br/>every one is demoable the day it lands.</sub></td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:0f172a&height=3&section=header" width="100%" alt="" />
-
-<div align="center">
-
-### `stack`
-
-<sub>**LANGUAGES**</sub><br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-<sub>**AI · AGENTS**</sub><br/>
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=0d1117)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-<sub>**FRONTEND**</sub><br/>
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0d1117)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=0d1117)
-
-<sub>**BACKEND**</sub><br/>
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-<sub>**CLOUD · DATA**</sub><br/>
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:0f172a&height=3&section=header" width="100%" alt="" />
-
-<div align="center">
-
-### `the workshop`
-
-<sub>Ten systems. One thesis, applied ten different ways.</sub>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏬 &nbsp;[marketplace](https://github.com/sathwikbairaboina2/marketplace)
-**Multi-tenant commerce + schema agent**
-
-*A chat that safely rewrites your database schema.*
-
-Two services decoupled by an SQS FIFO queue. A deterministic engine enforces a per-tenant dynamic schema registry; a LangGraph layer turns a conversation into a validated schema-change proposal. The agent never writes to the registry — it emits proposals the engine adjudicates.
-
-![](https://img.shields.io/badge/30.8k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/389_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/346_commits-0EA5E9?style=flat-square&labelColor=0d1117)
-
-`NestJS ×2` · `Next.js` · `LangGraph.js` · `LocalStack` · `Playwright`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎭 &nbsp;[Avatara](https://github.com/sathwikbairaboina2/Avatara)
-**Character chat platform**
-
-*character.ai, rebuilt to run on your own box.*
-
-Create AI characters with a persona, chat over a token stream, publish, follow other creators. Rebuilt from an AWS-Lambda prototype into two NestJS monoliths with a local-first dev stack. Shipped as four vertical slices — each a complete flow, never a layer.
-
-![](https://img.shields.io/badge/53.2k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/311_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/337_commits-0EA5E9?style=flat-square&labelColor=0d1117)
-
-`NestJS ×2` · `LangGraph` · `Ollama` · `SQS FIFO` · `Redis` · `Cognito`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📈 &nbsp;[RakshaQuant](https://github.com/sathwikbairaboina2/RakshaQuant)
-**Agentic NSE paper trading**
-
-*Let the model read the market. Never let it place the order.*
-
-A LangGraph pipeline of Groq-backed agents classifies market regime, picks strategies, validates signals. A deterministic rules engine does final approval, sizing and limits. Studied and hardened to v2.1 against a nine-defect audit. Paper-only by default.
-
-![](https://img.shields.io/badge/19.9k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/113_commits-0EA5E9?style=flat-square&labelColor=0d1117)
-
-`Python 3.11` · `LangGraph` · `Groq` · `LangSmith` · `uv`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎓 &nbsp;[PersonalAITutor](https://github.com/sathwikbairaboina2/PersonalAITutor)
-**Mastery-tracking tutor + sim harness**
-
-*Task completion is not learning.*
-
-Progress is per-concept mastery that decays over time. Planning, difficulty selection, review scheduling and feedback are all queries against that one model — and it replays from the attempt log, so mastery can never drift from evidence. Graded by a synthetic-learner harness.
-
-![](https://img.shields.io/badge/9.3k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/130_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/91_commits-0EA5E9?style=flat-square&labelColor=0d1117)
-
-`NestJS ×2` · `LangGraph.js` · `mathjs` · `DynamoDB + S3`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 💥 &nbsp;[ComicGen](https://github.com/sathwikbairaboina2/ComicGen) &nbsp;<img src="https://img.shields.io/badge/public-0EA5E9?style=flat-square" alt="public" />
-**Local comic generation studio**
-
-*A topic goes in. A finished comic page comes out.*
-
-Entirely on your own hardware. A local LLM writes the script; ComfyUI renders the panels; dialogue is composited at export so lettering stays crisp and editable. Every generation step is schema-validated and retried — characters keep a canonical appearance descriptor across panels.
-
-![](https://img.shields.io/badge/10.2k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/97_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/111_commits-0EA5E9?style=flat-square&labelColor=0d1117)
-
-`Python 3.12` · `FastAPI` · `ComfyUI / FLUX` · `Ollama` · `Pydantic v2`
-
-</td>
-<td width="50%" valign="top">
-
-#### 👻 &nbsp;[Invisible](https://github.com/sathwikbairaboina2/Invisible) &nbsp;<img src="https://img.shields.io/badge/public-0EA5E9?style=flat-square" alt="public" />
-**Capture-excluded meeting overlay**
-
-*Transparent to you. Invisible to the screen recorder.*
-
-Listens to a live conversation, transcribes it, streams advice onto an overlay excluded from screen capture. **~673 ms to first word.** Audio never hits disk, transcript is memory-only capped at 40 turns, one keystroke clears everything. Ships with an honest statement of its own legal limits.
-
-![](https://img.shields.io/badge/7.0k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/56_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/148_commits-0EA5E9?style=flat-square&labelColor=0d1117)
-
-`Electron 43` · `React 19` · `whisper.cpp` · `Silero VAD` · `Qdrant`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📸 &nbsp;[IntaBot](https://github.com/sathwikbairaboina2/IntaBot)
-**Agentic Instagram operations**
-
-*Draft, schedule, approve, publish — as a state machine.*
-
-Self-hosted content loop for a small number of Business accounts. Upload media, a drafting worker writes the caption and picks the next free slot from the account's posting windows, a human approves, a state machine publishes.
-
-![](https://img.shields.io/badge/6.0k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/105_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/54_commits-0EA5E9?style=flat-square&labelColor=0d1117)
-
-`NestJS` · `Next.js` · `BullMQ` · `MinIO / S3` · `Anthropic` · `Zod`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🗓️ &nbsp;[personalAssistant](https://github.com/sathwikbairaboina2/personalAssistant)
-**Local-first life tracker with voice**
-
-*Works perfectly with the entire AI stack switched off.*
-
-Projects, todos, habits and reflection, managed by a LangGraph agent over voice, plus AI daily and weekly summaries. Every single action also has a manual path — the AI is an accelerator, never a dependency.
-
-![](https://img.shields.io/badge/13.0k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/157_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/68_commits-0EA5E9?style=flat-square&labelColor=0d1117)
-
-`NestJS` · `Next.js` · `faster-whisper` · `kokoro TTS` · `LocalStack`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔍 &nbsp;[AeoGeo](https://github.com/sathwikbairaboina2/AeoGeo)
-**AI-search visibility scanner**
-
-*SEO is solved. Being cited by an LLM is not.*
-
-Measures how discoverable and citable a site is to AI search engines, tracks it over time, captures the leads who asked. Built on three claims: AI crawlers mostly don't execute JS, cited passages cluster at 134–167 words, and `sameAs` entity linking is the strongest structured-data signal.
-
-![](https://img.shields.io/badge/8.9k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/64_files-0d1117?style=flat-square)
-![](https://img.shields.io/badge/31_commits-0EA5E9?style=flat-square&labelColor=0d1117)
-
-`NestJS` · `Turborepo + pnpm` · `DynamoDB` · `LangGraph.js`
-
-</td>
-<td width="50%" valign="top">
-
-#### 📥 &nbsp;[instascraper](https://github.com/sathwikbairaboina2/instascraper)
-**Serialized media fetcher**
-
-*Rate limiting as an architecture, not a config value.*
-
-Two containers, one fetch worker thread. That single thread is the only code that talks to Instagram, which makes request serialization *structural* rather than a convention. All vendor code confined to one directory — an upstream breakage has a one-directory blast radius.
-
-![](https://img.shields.io/badge/12.8k_lines-0d1117?style=flat-square)
-![](https://img.shields.io/badge/2_containers-0d1117?style=flat-square)
-![](https://img.shields.io/badge/1_worker_thread-0d1117?style=flat-square)
-![](https://img.shields.io/badge/127_commits-0EA5E9?style=flat-square&labelColor=0d1117)
-
-`Next.js` · `FastAPI` · `Instaloader` · `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🛠️ &nbsp;[_devkit](https://github.com/sathwikbairaboina2/_devkit)
-**Workshop boot harness**
-
-*Nine projects. One command each. No manual steps.*
-
-Cold boot, health verify, run the tests. Some stacks need 3–6 containers, a seed step and a signed JWT before the first real assertion — these scripts collapse that gap to a single call, plus a port-ownership map and a live status dashboard.
-
-![](https://img.shields.io/badge/9_projects-0d1117?style=flat-square)
-![](https://img.shields.io/badge/2,875_tests-0EA5E9?style=flat-square&labelColor=0d1117)
-
-`PowerShell` · `Docker Compose` · `LocalStack`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧬 &nbsp;[AI Avatara](https://www.aiavatara.chat/about) &nbsp;<img src="https://img.shields.io/badge/live-22c55e?style=flat-square" alt="live" />
-**End-to-end AI web platform**
-
-*The portfolio piece. Shipped, hosted, demoable.*
-
-Built on open-source transformer and diffusion models with a fully integrated frontend and backend. The public proof that the local-first pattern scales past a laptop.
-
-<a href="https://youtu.be/5753AhC2ysw"><img src="https://img.shields.io/badge/▶_Watch_the_demo-FF0000?style=flat-square&logoColor=white" alt="Demo" /></a>
-
-`Transformers` · `Diffusion models` · `Full stack`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>Repos without a <b>public</b> tag are private — happy to walk anyone through them.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:0f172a&height=3&section=header" width="100%" alt="" />
-
-<div align="center">
-
-### `shipped in public`
-
-<sub>Nineteen open-source repos, all public. Every number below comes from a benchmark committed in that repo.</sub>
-
-</div>
+The line I care about most in a system design: **where the model is allowed to make a decision, and where it is not.** Almost everything I ship has the same skeleton. A deterministic core owns state, money and limits. A probabilistic layer around it *proposes* rather than executes. Then a test asserts that every declared limit is actually enforced, which is where most agentic systems quietly fail.
+
+| principle | in practice |
+|---|---|
+| ⛓️ **The LLM never executes** | Models classify, draft and propose. A rules engine approves, sizes and commits. Tests enforce the boundary. |
+| 🏠 **Local-first by default** | Ollama, whisper.cpp, ComfyUI, Qdrant. If it can run on the host, it does. Cloud is a target, not a dependency. |
+| 🔪 **Vertical slices** | Ship a complete flow, not a layer. Every slice is demoable the day it lands. |
+| 📏 **Measured, not claimed** | Every headline number comes from a benchmark committed next to the code. |
+
+## `stack`
+
+| area | tools |
+|---|---|
+| **Languages** | `TypeScript` `Python` `Go` `Node.js` |
+| **AI · agents** | `LangGraph` `LangChain` `Ollama` `Anthropic` `Hugging Face` `TensorFlow` `MCP` |
+| **Frontend** | `React` `Next.js` `Angular` `Redux` `Storybook` `React Native` `WebGPU` |
+| **Backend** | `NestJS` `FastAPI` `GraphQL` `Express` |
+| **Cloud · data** | `AWS` `CDK` `Step Functions` `Docker` `Kubernetes` `DynamoDB` `PostgreSQL` `MongoDB` `Redis` `Elasticsearch` |
+
+## `shipped in public`
+
+Nineteen open-source repos. Every number below comes from a benchmark committed in that repo.
 
 <sub>**GUARDRAILS FOR LLMS**</sub>
 
@@ -370,115 +79,99 @@ Built on open-source transformer and diffusion models with a fully integrated fr
 | 🖍️ | [**whiteboard**](https://github.com/sathwikbairaboina2/whiteboard) | Local-first whiteboard. <sub>TypeScript · Yjs · WebRTC</sub> | `3.2 ms p95 paint, 10k shapes` |
 | 🎨 | [**design-system**](https://github.com/sathwikbairaboina2/design-system) | Design system and micro-frontends. <sub>React · Module Federation · Storybook</sub> | `88 screenshots`<br/>`0 serious a11y` |
 
-<div align="center">
+## `the workshop`
 
-### `the rest of the bench`
+Ten systems that run on my own hardware, plus the harness that boots them and the live platform. One thesis, applied ten different ways. Repos without a `public` tag are private; happy to walk anyone through them.
 
-<sub>Thirteen more repos &mdash; plugins, services and tools that feed the ten above.</sub>
+<sub>**AGENTS WITH A DETERMINISTIC CORE**</sub>
 
-</div>
+| | repo | what it is | measured |
+|:-:|---|---|---|
+| 🏬 | [**marketplace**](https://github.com/sathwikbairaboina2/marketplace) | Multi-tenant commerce with a schema agent. A chat proposes schema changes; the engine adjudicates them. <sub>NestJS ×2 · Next.js · LangGraph.js · LocalStack · Playwright</sub> | `30.8k lines`<br/>`346 commits` |
+| 📈 | [**RakshaQuant**](https://github.com/sathwikbairaboina2/RakshaQuant) | Agentic NSE paper trading. Agents read the market; a rules engine approves, sizes and places. <sub>Python 3.11 · LangGraph · Groq · LangSmith · uv</sub> | `19.9k lines`<br/>`113 commits` |
+| 🎓 | [**PersonalAITutor**](https://github.com/sathwikbairaboina2/PersonalAITutor) | Mastery-tracking tutor. Per-concept mastery that decays and replays from the attempt log. <sub>NestJS ×2 · LangGraph.js · mathjs · DynamoDB + S3</sub> | `9.3k lines`<br/>`91 commits` |
+| 🔍 | [**AeoGeo**](https://github.com/sathwikbairaboina2/AeoGeo) | AI-search visibility scanner. How citable a site is to LLM search engines, tracked over time. <sub>NestJS · Turborepo + pnpm · DynamoDB · LangGraph.js</sub> | `8.9k lines`<br/>`31 commits` |
 
-| | | <sub>lines</sub> | <sub>commits</sub> |
-|---|---|--:|--:|
-| **instastudio** | Structured JSON into Instagram-ready handwritten-notes carousels, with an AI revise chat and optional ComfyUI polish. | <sub>7.6k</sub> | <sub>240</sub> |
-| **research assistant** | Local-only deep research. Fans a question across free channels using a local Qwen model and returns a cited report with the whole process visible live. | <sub>15.7k</sub> | <sub>117</sub> |
-| **AI Avatara front end** | The Next.js web client for the live AI Avatara platform. | <sub>7.5k</sub> | <sub>195</sub> |
-| **jobs reel** | A weekly sheet of open roles becomes one 60-second vertical reel carrying the shape of the week. | <sub>11.2k</sub> | <sub>82</sub> |
-| **reel renderer** | JSON in, reel out. A FastAPI service rendering Remotion reels in four themes. | <sub>3.4k</sub> | <sub>56</sub> |
-| **HearSync** | Upload a PDF and read it in a reflowed reader that reads to you &mdash; or follows along while you read aloud. | <sub>7.9k</sub> | <sub>46</sub> |
-| **AI Avatara infra** | AWS CDK infrastructure for the AI Avatara platform. | <sub>2.7k</sub> | <sub>44</sub> |
-| **instacreator** | Takes a reference Instagram post and produces an original one: analyse, concept it out with you, generate, bundle. | <sub>10.4k</sub> | <sub>43</sub> |
-| **ComicGen Pro** | Director-grade comic and episode generator. Writers room on local Ollama, hard credit governance. | <sub>5.0k</sub> | <sub>32</sub> |
-| **reelscout** | A topic becomes a reviewed pack of source material. Six source hunters plus an adversarial critic; you decide what survives. | <sub>5.3k</sub> | <sub>16</sub> |
-| **lipsync desk** | Reference image plus an audio file in, a closeup video of a person speaking it out. | <sub>6.2k</sub> | <sub>15</sub> |
-| **webpage &rarr; mp4** | A list of links becomes a vertical reel that looks like someone browsing each page on a phone. | <sub>4.6k</sub> | <sub>2</sub> |
-| **Vyuha** | NSE index options assistant. Design spec approved; implementation not started. | <sub>&mdash;</sub> | <sub>3</sub> |
+<sub>**LOCAL-FIRST AI APPS**</sub>
 
-<div align="center">
-<sub>All private. <code>_devkit</code> above is the harness that boots the ones that run.</sub>
-</div>
+| | repo | what it is | measured |
+|:-:|---|---|---|
+| 🎭 | [**Avatara**](https://github.com/sathwikbairaboina2/Avatara) | Character chat platform. character.ai, rebuilt to run on your own box. <sub>NestJS ×2 · LangGraph · Ollama · SQS FIFO · Redis · Cognito</sub> | `53.2k lines`<br/>`337 commits` |
+| 💥 | [**ComicGen**](https://github.com/sathwikbairaboina2/ComicGen) <sub>`public`</sub> | Local comic studio. A topic goes in; a finished, lettered comic page comes out. <sub>Python 3.12 · FastAPI · ComfyUI / FLUX · Ollama · Pydantic v2</sub> | `10.2k lines`<br/>`111 commits` |
+| 👻 | [**Invisible**](https://github.com/sathwikbairaboina2/Invisible) <sub>`public`</sub> | Capture-excluded meeting overlay. Live transcription and advice the screen recorder never sees. <sub>Electron 43 · React 19 · whisper.cpp · Silero VAD · Qdrant</sub> | `~673 ms to first word`<br/>`148 commits` |
+| 🗓️ | [**personalAssistant**](https://github.com/sathwikbairaboina2/personalAssistant) | Local-first life tracker with voice. Every action also works with the AI switched off. <sub>NestJS · Next.js · faster-whisper · kokoro TTS · LocalStack</sub> | `13.0k lines`<br/>`68 commits` |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:0f172a&height=3&section=header" width="100%" alt="" />
+<sub>**PIPELINES AND TOOLING**</sub>
 
-<div align="center">
+| | repo | what it is | measured |
+|:-:|---|---|---|
+| 📸 | [**IntaBot**](https://github.com/sathwikbairaboina2/IntaBot) | Agentic Instagram operations. Draft, schedule, approve and publish as a state machine. <sub>NestJS · Next.js · BullMQ · MinIO / S3 · Anthropic · Zod</sub> | `6.0k lines`<br/>`54 commits` |
+| 📥 | [**instascraper**](https://github.com/sathwikbairaboina2/instascraper) | Serialized media fetcher. One worker thread makes rate limiting structural. <sub>Next.js · FastAPI · Instaloader · Docker</sub> | `12.8k lines`<br/>`127 commits` |
+| 🛠️ | [**_devkit**](https://github.com/sathwikbairaboina2/_devkit) | Workshop boot harness. Cold boot, health check and tests for nine projects, one command each. <sub>PowerShell · Docker Compose · LocalStack</sub> | `9 projects`<br/>`2,875 tests` |
 
-### `work experience`
+<sub>**LIVE**</sub>
 
-</div>
+| | repo | what it is | measured |
+|:-:|---|---|---|
+| 🧬 | [**AI Avatara**](https://www.aiavatara.chat/about) <sub>`live`</sub> | End-to-end AI web platform on open-source transformer and diffusion models. [Watch the demo](https://youtu.be/5753AhC2ysw). <sub>Transformers · Diffusion models · Full stack</sub> | `hosted`<br/>`public demo` |
 
-<table>
-<tr><td valign="top">
+## `the rest of the bench`
 
-### Lego Verse Module &nbsp;<img src="https://img.shields.io/badge/current-0EA5E9?style=flat-square&labelColor=0d1117" alt="current" />
-**Senior Full Stack Engineer · Co-Founder** &nbsp;·&nbsp; <sub><code>AUG 2023 — PRESENT</code></sub>
+Thirteen more private repos: plugins, services and tools that feed the systems above.
 
-Architected a full-stack AI-driven SaaS platform on AWS. LangChain and Hugging Face integrated for model inference, automating complex B2B workflows and enabling intelligent decision-making across processes. Microservices containerized with Docker and auto-scaling on ECS during peak loads. GraphQL APIs for efficient querying. CI/CD established through CDK and CloudFormation with automated testing.
+| | repo | what it is | measured |
+|:-:|---|---|---|
+| 🗒️ | **instastudio** | Structured JSON into Instagram-ready handwritten-notes carousels, with an AI revise chat and optional ComfyUI polish. | `7.6k lines`<br/>`240 commits` |
+| 🔬 | **research assistant** | Local-only deep research with a local Qwen model, returning a cited report with the process visible live. | `15.7k lines`<br/>`117 commits` |
+| 🖥️ | **AI Avatara front end** | The Next.js web client for the live AI Avatara platform. | `7.5k lines`<br/>`195 commits` |
+| 💼 | **jobs reel** | A weekly sheet of open roles becomes one 60-second vertical reel. | `11.2k lines`<br/>`82 commits` |
+| 🎬 | **reel renderer** | JSON in, reel out. A FastAPI service rendering Remotion reels in four themes. | `3.4k lines`<br/>`56 commits` |
+| 🎧 | **HearSync** | Upload a PDF and read it in a reflowed reader that reads to you, or follows along as you read aloud. | `7.9k lines`<br/>`46 commits` |
+| ☁️ | **AI Avatara infra** | AWS CDK infrastructure for the AI Avatara platform. | `2.7k lines`<br/>`44 commits` |
+| 🧩 | **instacreator** | Takes a reference Instagram post and produces an original one: analyse, concept, generate, bundle. | `10.4k lines`<br/>`43 commits` |
+| 📚 | **ComicGen Pro** | Director-grade comic and episode generator. Writers room on local Ollama, hard credit governance. | `5.0k lines`<br/>`32 commits` |
+| 🧭 | **reelscout** | A topic becomes a reviewed pack of source material: six source hunters plus an adversarial critic. | `5.3k lines`<br/>`16 commits` |
+| 🗣️ | **lipsync desk** | Reference image plus an audio file in, a closeup video of a person speaking it out. | `6.2k lines`<br/>`15 commits` |
+| 📱 | **webpage → mp4** | A list of links becomes a vertical reel that looks like someone browsing each page on a phone. | `4.6k lines`<br/>`2 commits` |
+| 🧮 | **Vyuha** | NSE index options assistant. Design spec approved; implementation not started. | `spec only`<br/>`3 commits` |
 
-![](https://img.shields.io/badge/50%25-faster_deploys-0EA5E9?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/99.99%25-uptime-0EA5E9?style=flat-square&labelColor=0d1117)
+## `work experience`
 
-<sub>`Next.js` · `React` · `Node.js` · `Lambda` · `DynamoDB` · `AWS CDK` · `LangChain` · `Hugging Face` · `GraphQL` · `Docker` · `ECS`</sub>
+| | company | role | dates |
+|:-:|---|---|---|
+| 🟢 | **Lego Verse Module** | Senior Full Stack Engineer · Co-Founder | Aug 2023 – present |
+| 🇩🇪 | **Epilot GmbH** | Full Stack Engineer | Aug 2022 – May 2023 |
+| | **Aithinkers** | Senior Software Developer | May 2021 – Aug 2022 |
+| | **Iolar Technologies** | Full Stack Engineer | Dec 2017 – May 2021 |
+| | **CMAE Technologies** | Senior Full Stack Engineer | Jan 2017 – Dec 2017 |
 
-</td></tr>
-<tr><td valign="top">
+**Lego Verse Module** · `50% faster deploys` `99.99% uptime`
+- Architected an AI-driven B2B SaaS platform on AWS, with LangChain and Hugging Face models automating complex workflows.
+- Docker microservices auto-scaling on ECS, GraphQL APIs, and CI/CD through CDK and CloudFormation with automated tests.
+<sub>Next.js · React · Node.js · Lambda · DynamoDB · AWS CDK · LangChain · Hugging Face · GraphQL · Docker · ECS</sub>
 
-### Epilot GmbH &nbsp;🇩🇪
-**Full Stack Engineer** &nbsp;·&nbsp; <sub><code>AUG 2022 — MAY 2023</code></sub>
+**Epilot GmbH** · `95% of UI bugs caught pre-release` `30% faster load times`
+- Built import and export for dynamic platform entities with JSON Schema transformations, a Shopify-like model for arbitrary tenant data.
+- Created a Storybook-driven component library with automated tests, and cut React/Redux bundle size.
+<sub>Node.js · React · TypeScript · Redux · Storybook · JSON Schema</sub>
 
-Built an import/export system for dynamic platform entities using JSON schema transformations — a Shopify-like model for arbitrary tenant data — enabling seamless data exchange and improving configurability for clients. Created a Storybook-driven UI component library with automated testing. Optimized React/Redux front-end performance, cutting bundle size. Collaborated across teams on scalable APIs for journey automation.
+**Aithinkers**
+- Led the rebuild of the AeroPartsNow aerospace e-commerce front end.
+- Built a real-time dynamic pricing engine on Lambda, DynamoDB and Elasticsearch, and AppSync GraphQL APIs. Automated CI/CD with SAM, and set the team's coding standards.
+<sub>React · Node.js · Lambda · DynamoDB · Elasticsearch · AppSync · AWS SAM · CloudFormation</sub>
 
-![](https://img.shields.io/badge/95%25-UI_bugs_caught_pre--release-0EA5E9?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/30%25-faster_load_times-0EA5E9?style=flat-square&labelColor=0d1117)
+**Iolar Technologies**
+- Architected an on-demand vehicle maintenance platform (MERN plus a React Native app) with real-time booking and tracking.
+- Integrated Google Maps, Razorpay, Plivo and OneSignal. Recruited and mentored the engineering team.
+<sub>React · React Native · Node.js · Express · MongoDB · EC2 · S3</sub>
 
-<sub>`Node.js` · `React` · `TypeScript` · `Redux` · `Storybook` · `JSON Schema`</sub>
+**CMAE Technologies**
+- Built the backend for an IoT car platform: vehicle data over MQTT and CAN-BUS from Raspberry Pi ECUs into MongoDB on AWS.
+- Collision detection, overspeed alerts, trip analysis, and geofenced theft alerts with MongoDB geospatial queries.
+<sub>Python · Node.js · MQTT · CAN-BUS · MongoDB · Raspberry Pi · AWS</sub>
 
-</td></tr>
-<tr><td valign="top">
+## `next`
 
-### Aithinkers
-**Senior Software Developer** &nbsp;·&nbsp; <sub><code>MAY 2021 — AUG 2022</code></sub>
+**Open to senior and staff roles in AI platform engineering**, especially where the hard part is the boundary between the model and the system of record.
 
-Led the end-to-end redevelopment of the AeroPartsNow aerospace parts e-commerce front end, rebuilding core modules for a more responsive UI. Engineered a real-time dynamic pricing engine on Lambda, DynamoDB and Elasticsearch, improving pricing accuracy and enabling data-driven decisions. Developed GraphQL APIs with AppSync to synchronize complex data models, reducing API call redundancy. Automated CI/CD with SAM and CloudFormation. Mentored juniors and set the team's coding standards.
-
-<sub>`React` · `Node.js` · `Lambda` · `DynamoDB` · `Elasticsearch` · `AppSync` · `AWS SAM` · `CloudFormation`</sub>
-
-</td></tr>
-<tr><td valign="top">
-
-### Iolar Technologies
-**Full Stack Engineer** &nbsp;·&nbsp; <sub><code>DEC 2017 — MAY 2021</code></sub>
-
-Architected and built an on-demand vehicle maintenance platform — MERN stack with a React Native app — supporting real-time repair booking and tracking, an Uber-like experience for auto services. Node.js/Express backend APIs with EC2 and S3 for storage and processing. Integrated Google Maps for navigation, Razorpay for payments, Plivo for SMS and OneSignal for push. Led UX design and feature planning across web and mobile. Recruited and mentored the engineering team, establishing Agile practice.
-
-<sub>`React` · `React Native` · `Node.js` · `Express` · `MongoDB` · `EC2` · `S3` · `Google Maps` · `Razorpay`</sub>
-
-</td></tr>
-<tr><td valign="top">
-
-### CMAE Technologies
-**Senior Full Stack Engineer** &nbsp;·&nbsp; <sub><code>JAN 2017 — DEC 2017</code></sub>
-
-Architected the backend for an IoT car platform, processing real-time vehicle data over MQTT and CAN-BUS on AWS and storing metrics in MongoDB for driving-behaviour analysis. Python and Node.js modules captured and parsed ECU data from Raspberry Pi devices, enabling collision detection, overspeeding alerts and trip analysis. Engineered geofencing with Google Maps and MongoDB geospatial queries to trigger theft-prevention alerts. Built REST APIs and notification services. Led collaboration between the software and hardware teams from concept to prototype.
-
-<sub>`Python` · `Node.js` · `MQTT` · `CAN-BUS` · `MongoDB` · `Raspberry Pi` · `AWS` · `Plivo` · `OneSignal`</sub>
-
-</td></tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:0f172a&height=3&section=header" width="100%" alt="" />
-
-<div align="center">
-
-<br/>
-
-### Open to senior and staff roles in AI platform engineering.
-
-<sub>Especially where the hard part is the boundary between the model and the system of record.</sub>
-
-<br/>
-
-<a href="https://linkedin.com/in/sathwik-bairaboina-630433182/"><img src="https://img.shields.io/badge/Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:bairaboinasathwik@gmail.com"><img src="https://img.shields.io/badge/bairaboinasathwik@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=140&section=footer" width="100%" alt="" />
-
-</div>
+[![Let's talk](https://img.shields.io/badge/Let's_talk-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwik-bairaboina-630433182/) [![Email](https://img.shields.io/badge/bairaboinasathwik@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:bairaboinasathwik@gmail.com)
