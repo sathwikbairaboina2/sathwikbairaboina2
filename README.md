@@ -316,6 +316,60 @@ Built on open-source transformer and diffusion models with a fully integrated fr
 <sub>Repos without a <b>public</b> tag are private — happy to walk anyone through them.</sub>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0ea5e9,100:0f172a&height=3&section=header" width="100%" alt="" />
+
+<div align="center">
+
+### `shipped in public`
+
+<sub>Nineteen open-source repos, all public. Every number below comes from a benchmark committed in that repo.</sub>
+
+</div>
+
+<sub>**GUARDRAILS FOR LLMS**</sub>
+
+| | repo | what it is | measured |
+|:-:|---|---|---|
+| 🚦 | [**tollgate**](https://github.com/sathwikbairaboina2/tollgate) | LLM gateway in Go. <sub>Go · OpenTelemetry · Prometheus</sub> | `+0.129 ms p50`<br/>`91.5% cost cut` |
+| 🛡️ | [**toolwarden**](https://github.com/sathwikbairaboina2/toolwarden) | MCP security auditor. <sub>TypeScript · MCP SDK · GitHub Action</sub> | `17 rules`<br/>`SARIF 2.1.0` |
+| 🧪 | [**evalgate**](https://github.com/sathwikbairaboina2/evalgate) | Agent regression tests in CI. <sub>TypeScript · GitHub Action · LLM judge</sub> | `p = 0.031 caught`<br/>`κ 1.0 judge` |
+| 🏗️ | [**infra-agent**](https://github.com/sathwikbairaboina2/infra-agent) | Guardrailed Terraform agent. <sub>Python · LangGraph · Terraform · OPA</sub> | `0 / 24 violations applied` |
+| 🔎 | [**deep-research**](https://github.com/sathwikbairaboina2/deep-research) | Research agent with a citation verifier. <sub>Python · LangGraph · Ollama</sub> | `0 bad citations shipped`<br/>`812 / 812 fakes rejected` |
+| 🚨 | [**rca-bot**](https://github.com/sathwikbairaboina2/rca-bot) | Alarm to root-cause bot. <sub>TypeScript · Step Functions · Logs Insights</sub> | `90.9% top-1 root cause`<br/>`30 / 30 fabrications blocked` |
+
+<sub>**AGENT RUNTIMES AND TOOLING**</sub>
+
+| | repo | what it is | measured |
+|:-:|---|---|---|
+| ⚡ | [**serverless-agent**](https://github.com/sathwikbairaboina2/serverless-agent) | LangGraph on Lambda, as a CDK construct. <sub>TypeScript · AWS CDK · LangGraph.js</sub> | `718 / 718 conformance`<br/>`0 IAM wildcards` |
+| 🧾 | [**durable-multi-agent**](https://github.com/sathwikbairaboina2/durable-multi-agent) | Human-gated procurement agents. <sub>TypeScript · Step Functions · LangGraph</sub> | `0 duplicate POs`<br/>`$0.00 budget drift` |
+| ⏪ | [**flight-recorder**](https://github.com/sathwikbairaboina2/flight-recorder) | Time-travel debugger for LangGraph. <sub>Python · FastAPI · React</sub> | `10k checkpoints in 372 ms` |
+| ✍️ | [**co-author**](https://github.com/sathwikbairaboina2/co-author) | AI as a CRDT peer. <sub>TypeScript · Yjs · ProseMirror</sub> | `32 peers in 468 ms`<br/>`1.1 ms write gate` |
+
+<sub>**INFRASTRUCTURE FROM SCRATCH, IN GO**</sub>
+
+| | repo | what it is | measured |
+|:-:|---|---|---|
+| 📨 | [**kafka-go**](https://github.com/sathwikbairaboina2/kafka-go) | Kafka broker from scratch. <sub>Go · stdlib only</sub> | `2.2 GB/s produce`<br/>`0 acked lost / 40 kill -9` |
+| ♻️ | [**workflow-engine**](https://github.com/sathwikbairaboina2/workflow-engine) | Durable workflow engine. <sub>Go · SQLite</sub> | `0 lost / 200 kill -9`<br/>`703 transitions/s` |
+
+<sub>**EVENT-DRIVEN AWS**</sub>
+
+| | repo | what it is | measured |
+|:-:|---|---|---|
+| 🧹 | [**etl-quarantine**](https://github.com/sathwikbairaboina2/etl-quarantine) | ETL with row-level quarantine. <sub>TypeScript · Step Functions · Parquet</sub> | `1M rows, 0 lost, 0 dupes` |
+| 🛰️ | [**iot-telemetry**](https://github.com/sathwikbairaboina2/iot-telemetry) | Fleet telemetry and geofence alerts. <sub>TypeScript · MQTT · AWS IoT</sub> | `p99 7.2 ms`<br/>`0 duplicate alerts` |
+| 💹 | [**pricing-engine**](https://github.com/sathwikbairaboina2/pricing-engine) | Stream-driven pricing engine. <sub>TypeScript · DynamoDB Streams · AppSync</sub> | `p50 172.5 ms to subscriber`<br/>`0 lost` |
+
+<sub>**BROWSER AND FRONTEND**</sub>
+
+| | repo | what it is | measured |
+|:-:|---|---|---|
+| 🪄 | [**inpaint-web**](https://github.com/sathwikbairaboina2/inpaint-web) | In-browser object removal. <sub>TypeScript · onnxruntime-web · WebGPU</sub> | `43.5× WebGPU vs WASM` |
+| 📈 | [**webgpu-chart**](https://github.com/sathwikbairaboina2/webgpu-chart) | Streaming chart on WebGPU. <sub>TypeScript · WebGPU · WGSL</sub> | `p95 6.4 ms vs 46.7 ms uPlot` |
+| 🖍️ | [**whiteboard**](https://github.com/sathwikbairaboina2/whiteboard) | Local-first whiteboard. <sub>TypeScript · Yjs · WebRTC</sub> | `3.2 ms p95 paint, 10k shapes` |
+| 🎨 | [**design-system**](https://github.com/sathwikbairaboina2/design-system) | Design system and micro-frontends. <sub>React · Module Federation · Storybook</sub> | `88 screenshots`<br/>`0 serious a11y` |
+
 <div align="center">
 
 ### `the rest of the bench`
