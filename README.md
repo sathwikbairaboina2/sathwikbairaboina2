@@ -2,11 +2,13 @@
 
 > **Senior Full Stack Engineer · AI Solution Architect.** The model proposes. The deterministic core disposes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwik-bairaboina-630433182/) [![Email](https://img.shields.io/badge/bairaboinasathwik@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:bairaboinasathwik@gmail.com) [![Portfolio](https://img.shields.io/badge/AI_Avatara-live-22c55e)](https://www.aiavatara.chat/about) [![Demo](https://img.shields.io/badge/demo-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/5753AhC2ysw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwik-bairaboina-630433182/) [![Email](https://img.shields.io/badge/bairaboinasathwik@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:bairaboinasathwik@gmail.com) [![aiiolar.com](https://img.shields.io/badge/aiiolar.com-live-22c55e)](https://aiiolar.com) [![Demo](https://img.shields.io/badge/demo-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/5753AhC2ysw)
 
-| years | public repos | workshop repos | workshop lines | workshop commits | workshop tests |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| **8+** | **19** | **25** | **270k** | **2,357** | **2,875** |
+I also run [**aiiolar.com**](https://aiiolar.com): free tech news and jobs for students in India, posted every morning, with free courses and college projects on the way.
+
+| years | public repos | workshop repos |
+|:-:|:-:|:-:|
+| **8+** | **19** | **25** |
 
 ## `whoami`
 
